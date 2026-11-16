@@ -1,0 +1,15 @@
+minute,failure_event_count,event_breakdown,first_line,last_line
+02-05 18:17,20,SSH Authentication Failure: 20,24459,24478
+02-15 14:10,21,SSH Authentication Failure: 21,24958,24978
+06-11 09:46,20,SSH Authentication Failure: 20,710,729
+06-30 20:53,46,Other Error/Failure: 46,1540,1585
+07-10 16:02,46,SSH Authentication Failure: 46,2153,2198
+08-29 07:22,30,SSH Authentication Failure: 30,4309,4338
+08-29 07:23,50,SSH Authentication Failure: 50,4339,4388
+09-25 14:06,31,SSH Authentication Failure: 31,5666,5696
+09-25 14:16,24,SSH Authentication Failure: 24,5719,5742
+10-15 15:50,40,SSH Authentication Failure: 40,7056,7095
+11-17 14:28,24,SSH Authentication Failure: 24,8820,8843
+11-18 11:10,21,SSH Authentication Failure: 21,9030,9050
+11-19 11:36,20,SSH Authentication Failure: 20,9345,9364
+11-19 11:52,26,SSH Authentication Failure: 26,9370,9395

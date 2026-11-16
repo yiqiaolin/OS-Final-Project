@@ -1,0 +1,64 @@
+LINUX SYSTEM LOG ANALYSIS
+=======================================================
+Input file: Linux.log
+Total lines: 25,567
+Parsed lines: 25,549
+Unparsed lines: 18
+Parse success rate: 99.93%
+Unique processes: 72
+Unique exact messages: 11,253
+Unique process-template pairs: 1,148
+Detected anomaly windows: 14
+
+TOP 10 PROCESSES
+-------------------------------------------------------
+kernel: 13,670
+sshd(pam_unix): 4,996
+ftpd: 3,453
+su(pam_unix): 944
+udev: 484
+named: 320
+logrotate: 231
+telnetd: 179
+unix_chkpwd: 153
+smartd: 92
+
+EVENT CLASSIFICATION
+-------------------------------------------------------
+Kernel Activity: 13,654
+SSH Authentication Failure: 3,934
+FTP Activity: 3,453
+Other System Activity: 2,311
+SSH Other: 912
+Session Closed: 480
+Session Opened: 479
+Other Error/Failure: 113
+SSH Session Opened: 82
+SSH Session Closed: 81
+Scheduled Task: 20
+Kernel Error/Warning: 16
+Authentication Failure: 14
+
+KEYWORD COUNTS
+-------------------------------------------------------
+error: 21
+failed: 116
+failure: 4,044
+warning: 19
+alert: 231
+authentication: 3,998
+password: 4
+session: 1,123
+timeout: 3
+denied: 142
+refused: 0
+invalid: 124
+
+NOTES
+-------------------------------------------------------
+1. Linux timestamps may not contain a year.
+2. Template normalization is heuristic.
+3. Keyword counts may overlap.
+4. Event categories are rule-based.
+5. Anomaly windows are not ground-truth labels.
+6. Unparsed lines are retained separately.

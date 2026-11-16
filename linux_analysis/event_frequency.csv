@@ -1,0 +1,14 @@
+event,count
+Kernel Activity,13654
+SSH Authentication Failure,3934
+FTP Activity,3453
+Other System Activity,2311
+SSH Other,912
+Session Closed,480
+Session Opened,479
+Other Error/Failure,113
+SSH Session Opened,82
+SSH Session Closed,81
+Scheduled Task,20
+Kernel Error/Warning,16
+Authentication Failure,14

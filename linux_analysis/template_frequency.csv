@@ -1,0 +1,1149 @@
+process,template,count
+kernel,Out of Memory: Killed process <NUM> (httpd).,8903
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<IP> user=root,1597
+kernel,Out of Memory: Killed process <NUM> (python).,1153
+sshd(pam_unix),check pass; user unknown,888
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<IP>,452
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<IP> user=test,242
+su(pam_unix),session opened for user cyrus by (uid=<NUM>),231
+su(pam_unix),session closed for user cyrus,231
+logrotate,ALERT exited abnormally with [<NUM>],231
+su(pam_unix),session opened for user news by (uid=<NUM>),231
+su(pam_unix),session closed for user news,231
+kernel,Out of Memory: Killed process <NUM> (sendmail).,230
+ftpd,connection from <IP> (dslb-<NUM>-<NUM>-<NUM>-<NUM>.pools.arcor-ip.net) at Sat Nov <NUM> <NUM>:<NUM>:<NUM> <NUM>,189
+named,"listening on IPv4 interface eth0:<NUM>, <IP>#<NUM>",176
+kernel,[<<NUM>>] do_page_fault+<HEX>/<HEX>,175
+unix_chkpwd,check pass; user unknown,153
+ftpd,connection from <IP> () at Sun Jul <NUM> <NUM>:<NUM>:<NUM> <NUM>,120
+telnetd,ttloop: peer died: Invalid or incomplete multibyte or wide character,112
+ftpd,connection from <IP> () at Fri Jul <NUM> <NUM>:<NUM>:<NUM> <NUM>,91
+kernel,[<0212ebf3>] __alloc_pages+<HEX>/<HEX>,90
+kernel,,89
+kernel,Call Trace:,88
+ftpd,connection from <IP> () at Sat Jul <NUM> <NUM>:<NUM>:<NUM> <NUM>,87
+kernel,"httpd: page allocation failure. order:<NUM>, mode:<HEX>",77
+ftpd,connection from <IP> () at Wed Jun <NUM> <NUM>:<NUM>:<NUM> <NUM>,76
+ftpd,connection from <IP> () at Sun Feb <NUM> <NUM>:<NUM>:<NUM> <NUM>,71
+ftpd,connection from <IP> () at Wed Aug <NUM> <NUM>:<NUM>:<NUM> <NUM>,68
+sshd(pam_unix),session opened for user test by (uid=<NUM>),67
+sshd(pam_unix),session closed for user test,67
+ftpd,connection from <IP> () at Sat Oct <NUM> <NUM>:<NUM>:<NUM> <NUM>,67
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=pc180-<NUM>.nttu.edu.tw user=root,67
+ftpd,connection from <IP> () at Mon Jul <NUM> <NUM>:<NUM>:<NUM> <NUM>,63
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<IP> user=nobody,63
+kernel,[<0227ecc1>] schedule+<HEX>/<HEX>,63
+telnetd,ttloop: read: Connection timed out,57
+ftpd,connection from <IP> () at Sat Jun <NUM> <NUM>:<NUM>:<NUM> <NUM>,54
+ftpd,connection from <IP> () at Thu Jul <NUM> <NUM>:<NUM>:<NUM> <NUM>,54
+kernel,Out of Memory: Killed process <NUM> (mrtg).,50
+kernel,[<0213f423>] put_user_size+<HEX>/<HEX>,49
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.hebragasse.xdsl-line.inode.at,49
+kernel,NET: Registered protocol family <NUM>,48
+named,no longer listening on <IP>#<NUM>,48
+ftpd,connection from <IP> () at Fri Sep <NUM> <NUM>:<NUM>:<NUM> <NUM>,47
+ftpd,connection from <IP> (dsl-Chn-static-<IP>.touchtelindia.net) at Sun Jul <NUM> <NUM>:<NUM>:<NUM> <NUM>,46
+ftpd,connection from <IP> () at Tue Jul <NUM> <NUM>:<NUM>:<NUM> <NUM>,46
+ftpd,connection from <IP> (host8.topspot.net) at Sun Jul <NUM> <NUM>:<NUM>:<NUM> <NUM>,46
+ftpd,connection from <IP> (<NUM>-<NUM>-<NUM>-<NUM>.dsl.in-addr.zen.co.uk) at Sun Jul <NUM> <NUM>:<NUM>:<NUM> <NUM>,46
+ftpd,connection from <IP> (mail2.systemsevolution.com) at Wed Sep <NUM> <NUM>:<NUM>:<NUM> <NUM>,46
+ftpd,connection from <IP> (l03m-<NUM>-<NUM>-<NUM>-<NUM>.d4.club-internet.fr) at Thu Sep <NUM> <NUM>:<NUM>:<NUM> <NUM>,46
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=ztc2-f.nas.tiscali.de user=root,45
+ftpd,connection from <IP> () at Tue Aug <NUM> <NUM>:<NUM>:<NUM> <NUM>,44
+kernel,[<0213d341>] read_swap_cache_async+<HEX>/<HEX>,44
+ftpd,getpeername (ftpd): Transport endpoint is not connected,43
+syslogd 1.4.1,restart.,42
+ftpd,connection from <IP> () at Mon Sep <NUM> <NUM>:<NUM>:<NUM> <NUM>,42
+ftpd,connection from <IP> () at Mon Feb <NUM> <NUM>:<NUM>:<NUM> <NUM>,42
+ftpd,connection from <IP> () at Fri Feb <NUM> <NUM>:<NUM>:<NUM> <NUM>,42
+cups,cupsd startup succeeded,41
+ftpd,connection from <IP> () at Sat Aug <NUM> <NUM>:<NUM>:<NUM> <NUM>,41
+kernel,[<021364a7>] handle_mm_fault+<HEX>/<HEX>,40
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=secure.vision-xxl.com,39
+ftpd,connection from <IP> () at Wed Oct <NUM> <NUM>:<NUM>:<NUM> <NUM>,39
+cups,cupsd shutdown succeeded,37
+ftpd,connection from <IP> () at Fri Jan <NUM> <NUM>:<NUM>:<NUM> <NUM>,35
+udev,creating device node '/udev/vcs2',34
+udev,creating device node '/udev/vcsa2',34
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.hinet-ip.hinet.net user=root,34
+ftpd,connection from <IP> (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul <NUM> <NUM>:<NUM>:<NUM> <NUM>,32
+ftpd,connection from <IP> () at Sat Feb <NUM> <NUM>:<NUM>:<NUM> <NUM>,32
+udev,removing device node '/udev/vcs2',30
+udev,removing device node '/udev/vcsa2',30
+kernel,[<021361c7>] do_no_page+<HEX>/<HEX>,30
+kernel,[<0213647b>] handle_mm_fault+<HEX>/<HEX>,30
+ftpd,connection from <IP> () at Tue Sep <NUM> <NUM>:<NUM>:<NUM> <NUM>,26
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.hinet-ip.hinet.net,26
+kernel,VM: killing process httpd,26
+klogind,Kerberos authentication failed,25
+kernel,Out of Memory: Killed process <NUM> (mysqld).,25
+ftpd,connection from <IP> () at Wed Jul <NUM> <NUM>:<NUM>:<NUM> <NUM>,24
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=unknown.sagonet.net user=root,23
+ftpd,connection from <IP> () at Sun Jun <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (mail.net-star.com.tw) at Mon Jun <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (host-<NUM>.STSK.macomnet.net) at Mon Jun <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (<NUM>-<NUM>.<NUM>-<NUM>.tampabay.res.rr.com) at Mon Jun <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=n219076184117.netvigator.com user=root,23
+ftpd,connection from <IP> (<IP>.sh.interxion.inode.at) at Sun Jul <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.mtry01.pacbell.net) at Mon Jul <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (host129.<NUM>.<NUM>.<NUM>.maximumasp.com) at Sat Jul <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (dsl-<NUM>-<NUM>-<NUM>-<NUM>.arcor-ip.net) at Sun Jul <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (host190-<NUM>.pool8253.interbusiness.it) at Sun Aug <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (p508B53BA.dip.t-dialin.net) at Sun Aug <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (iis.willowtec.com) at Tue Aug <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (klik18.klik.bydgoszcz.pl) at Fri Aug <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (host-<NUM>-<NUM>-<NUM>-<NUM>.apid.com) at Mon Aug <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (host181-<NUM>.pool8255.interbusiness.it) at Tue Aug <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (<NUM>.fln.virtua.com.br) at Sun Aug <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (static-<NUM>-<NUM>-<NUM>-<NUM>.nwrk.east.verizon.net) at Tue Sep <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=yang.dorm13.nctu.edu.tw user=nobody,23
+ftpd,connection from <IP> (<NUM>-<NUM>-<NUM>-<NUM>.dsl.telesp.net.br) at Thu Sep <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (host26-<NUM>.pool81112.interbusiness.it) at Thu Sep <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (pc3.digi-aube-unet.ocn.ne.jp) at Thu Sep <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> () at Fri Oct <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (p549A68CF.dip.t-dialin.net) at Fri Oct <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> () at Sun Oct <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=customer-<NUM>-<NUM>-<NUM>-<NUM>.uninet-ide.com.mx user=fax,23
+ftpd,connection from <IP> (ASte-Genev-Bois-<NUM>-<NUM>-<NUM>-<NUM>.w82-<NUM>.abo.wanadoo.fr) at Mon Nov <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> () at Mon Nov <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (p549A6259.dip.t-dialin.net) at Tue Nov <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=ridsdale.plus.com,23
+ftpd,connection from <IP> () at Fri Nov <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (dslb-<NUM>-<NUM>-<NUM>-<NUM>.pools.arcor-ip.net) at Mon Nov <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+kernel,[<02135dee>] swapin_readahead+<HEX>/<HEX>,23
+kernel,[<02135e66>] do_swap_page+<HEX>/<HEX>,23
+kernel,[<021303bd>] do_page_cache_readahead+<HEX>/<HEX>,23
+kernel,[<0212c71b>] filemap_nopage+<HEX>/<HEX>,23
+ftpd,connection from <IP> (p548BB4C4.dip0.t-ipconnect.de) at Fri Jan <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (www.zajelgate.net) at Sun Jan <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (p15025-ipadfx01yosida.nagano.ocn.ne.jp) at Mon Jan <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> () at Mon Jan <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (p54817BE0.dip.t-dialin.net) at Wed Jan <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (<NUM>-<NUM>-<NUM>-<NUM>.fnsce303.ipd.brasiltelecom.net.br) at Wed Jan <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (AFontenayssB-<NUM>-<NUM>-<NUM>-<NUM>.w82-<NUM>.abo.wanadoo.fr) at Thu Jan <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> () at Sat Jan <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> () at Wed Jan <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> () at Thu Jan <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (<NUM>-<NUM>-<NUM>-<NUM>.getnet.net) at Wed Jan <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (<NUM>-<NUM>-<NUM>-<NUM>.getnet.net) at Thu Jan <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,User unknown timed out after <NUM> seconds at Mon Feb <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (mail.nrms.org) at Fri Feb <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (dco001.actionhosting.ca) at Sat Feb <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> () at Wed Feb <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (<IP>.res-cmts.sm.ptd.net) at Wed Feb <NUM> <NUM>:<NUM>:<NUM> <NUM>,23
+ftpd,connection from <IP> (ASte-Genev-Bois-<NUM>-<NUM>-<NUM>-<NUM>.w83-<NUM>.abo.wanadoo.fr) at Sun Sep <NUM> <NUM>:<NUM>:<NUM> <NUM>,22
+ftpd,connection from <IP> () at Mon Oct <NUM> <NUM>:<NUM>:<NUM> <NUM>,22
+ftpd,connection from <IP> (<NUM>-<NUM>-<NUM>.ded.tie.cl) at Thu Jan <NUM> <NUM>:<NUM>:<NUM> <NUM>,22
+ftpd,connection from <IP> (host202-<NUM>-<NUM>-<NUM>.khi.dancom.net.pk) at Mon Feb <NUM> <NUM>:<NUM>:<NUM> <NUM>,22
+ftpd,connection from <IP> (ip-<NUM>-<NUM>-<NUM>-<NUM>.evc.net) at Sat Aug <NUM> <NUM>:<NUM>:<NUM> <NUM>,21
+ftpd,connection from <IP> (p54A0B08D.dip0.t-ipconnect.de) at Tue Sep <NUM> <NUM>:<NUM>:<NUM> <NUM>,21
+ftpd,connection from <IP> (p549E7BA5.dip.t-dialin.net) at Fri Oct <NUM> <NUM>:<NUM>:<NUM> <NUM>,21
+ftpd,connection from <IP> (merton.whererwerunning.com) at Sat Nov <NUM> <NUM>:<NUM>:<NUM> <NUM>,21
+ftpd,connection from <IP> (<NUM>-<NUM>-<NUM>-<NUM>.cust.telepacific.net) at Sat Dec <NUM> <NUM>:<NUM>:<NUM> <NUM>,21
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=jwhp5.chem.ncsu.edu user=ftp,21
+udev,creating device node '/udev/vcs4',20
+rpc.statd,gethostbyname error for ^X���^X���^Z���^Z���%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>\<NUM>,20
+ftpd,connection from <IP> (ip-<NUM>-<NUM>-<NUM>-<NUM>.evc.net) at Sun Aug <NUM> <NUM>:<NUM>:<NUM> <NUM>,20
+ftpd,connection from <IP> (e182021189.adsl.alicedsl.de) at Mon Nov <NUM> <NUM>:<NUM>:<NUM> <NUM>,20
+kernel,[<<NUM>>] recalc_task_prio+<HEX>/<HEX>,20
+ftpd,connection from <IP> (<NUM>-<NUM>-<NUM>.ded.tie.cl) at Mon Jan <NUM> <NUM>:<NUM>:<NUM> <NUM>,20
+ftpd,connection from <IP> () at Tue Jan <NUM> <NUM>:<NUM>:<NUM> <NUM>,20
+ftpd,connection from <IP> (ark.dbstream.co.jp) at Sat Aug <NUM> <NUM>:<NUM>:<NUM> <NUM>,19
+kernel,[<<NUM>>] follow_page+<HEX>/<HEX>,19
+ftpd,connection from <IP> (<NUM>-<NUM>-<NUM>-<NUM>.fnsce303.ipd.brasiltelecom.net.br) at Thu Nov <NUM> <NUM>:<NUM>:<NUM> <NUM>,19
+ftpd,connection from <IP> (pc1.ayaha-hs-unet.ocn.ne.jp) at Fri Nov <NUM> <NUM>:<NUM>:<NUM> <NUM>,19
+ftpd,connection from <IP> (host-<NUM>-<NUM>.users.bzimage.us) at Fri Feb <NUM> <NUM>:<NUM>:<NUM> <NUM>,19
+ftpd,connection from <IP> (p54B84791.dip0.t-ipconnect.de) at Sat Feb <NUM> <NUM>:<NUM>:<NUM> <NUM>,19
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.prtc.net,19
+udev,creating device node '/udev/vcsa3',18
+udev,creating device node '/udev/vcs3',18
+udev,creating device node '/udev/vcsa4',18
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<IP> user=guest,18
+xinetd,warning: can't get client address: Connection reset by peer,18
+ftpd,connection from <IP> (bdsl.<IP>.gte.net) at Fri Nov <NUM> <NUM>:<NUM>:<NUM> <NUM>,18
+ftpd,connection from <IP> (mnpl-<NUM>-<NUM>.dsl.iowatelecom.net) at Thu Dec <NUM> <NUM>:<NUM>:<NUM> <NUM>,18
+ftpd,connection from <IP> () at Fri Dec <NUM> <NUM>:<NUM>:<NUM> <NUM>,18
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=c-<NUM>-<NUM>-<NUM>-<NUM>.hsd1.ca.comcast.net user=root,18
+kernel,ip_tables: (C) <NUM>-<NUM> Netfilter core team,17
+udev,removing device node '/udev/vcs4',17
+udev,removing device node '/udev/vcsa4',17
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=pokemon1.cs.bowiestate.edu,17
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=host123-<NUM>.pool8288.interbusiness.it user=root,17
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.nexg.net user=root,17
+kernel,[<02135e6d>] do_swap_page+<HEX>/<HEX>,17
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=web003.knoxville.xxpansion.net user=root,17
+kernel,kjournald starting. Commit interval <NUM> seconds,16
+kernel,EXT3-fs: mounted filesystem with ordered data mode.,16
+kernel,"parport0: PC-style at <HEX> (<HEX>) [PCSPP,TRISTATE,EPP]",16
+kernel,parport0: irq <NUM> detected,16
+kernel,PCI: Found IRQ <NUM> for device <NUM>:<NUM>:0c.<NUM>,16
+kernel,3c59x: Donald Becker and others. www.scyld.com/network/vortex.html,16
+kernel,<NUM>:<NUM>:0c.<NUM>: 3Com PCI 3c905C Tornado at <HEX>. Vers LK1.<NUM>.<NUM>,16
+udev,creating device node '/udev/vcs5',16
+udev,creating device node '/udev/vcsa5',16
+udev,creating device node '/udev/vcs6',16
+udev,creating device node '/udev/vcsa6',16
+udev,creating device node '/udev/vcs7',16
+udev,creating device node '/udev/vcsa7',16
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.adsl.ttn.net user=root,16
+named,notify question section contains no SOA,16
+ftpd,connection from <IP> (NK210-<NUM>-<NUM>-<NUM>.adsl.static.ebtnet.net) at Tue Aug <NUM> <NUM>:<NUM>:<NUM> <NUM>,16
+ftpd,connection from <IP> () at Fri Aug <NUM> <NUM>:<NUM>:<NUM> <NUM>,16
+ftpd,connection from <IP> (host217-<NUM>-<NUM>-<NUM>.in-addr.btopenworld.com) at Sat Nov <NUM> <NUM>:<NUM>:<NUM> <NUM>,16
+kernel,[<0213f1ba>] rw_vm+<HEX>/<HEX>,16
+ftpd,connection from <IP> (p54B80A53.dip0.t-ipconnect.de) at Tue Jan <NUM> <NUM>:<NUM>:<NUM> <NUM>,16
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=relic.centrodedatos.com,16
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=vedgi-gw.rosprint.net,16
+gpm,*** info [mice.c(<NUM>)]:,15
+gpm,imps2: Auto-detected intellimouse PS/<NUM>,15
+ftpd,connection from <IP> (lns-vlq-<NUM>-tou-<NUM>-<NUM>-<NUM>-<NUM>.adsl.proxad.net) at Sat Jun <NUM> <NUM>:<NUM>:<NUM> <NUM>,15
+klogind,Authentication failed from <IP> (<IP>): Software caused connection abort,15
+sshd(pam_unix),session opened for user root by (uid=<NUM>),15
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<IP> user=amanda,15
+ftpd,connection from <IP> (ALyon-<NUM>-<NUM>-<NUM>-<NUM>.w86-<NUM>.abo.wanadoo.fr) at Wed Sep <NUM> <NUM>:<NUM>:<NUM> <NUM>,15
+kernel,[<0212d602>] generic_file_aio_write+<HEX>/<HEX>,15
+kernel,[<0a8ddb99>] ext3_file_write+<HEX>/<HEX> [ext3],15
+kernel,[<<NUM>>] do_sync_write+<HEX>/<HEX>,15
+kernel,[<02129a6c>] do_acct_process+<HEX>/<HEX>,15
+kernel,[<02129a95>] acct_process+<HEX>/<HEX>,15
+kernel,[<02119ccc>] do_exit+<HEX>/<HEX>,15
+kernel,[<0211476a>] do_page_fault+<HEX>/<HEX>,15
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=xdsl-<NUM>-<NUM>-<NUM>-<NUM>.netcologne.de user=test,15
+udev,removing device node '/udev/vcsa3',14
+udev,removing device node '/udev/vcs3',14
+sshd(pam_unix),session closed for user root,14
+ftpd,connection from <IP> () at Thu Aug <NUM> <NUM>:<NUM>:<NUM> <NUM>,14
+kernel,[<0212bd04>] find_or_create_page+<HEX>/<HEX>,14
+kernel,[<02142ed7>] grow_dev_page+<HEX>/<HEX>,14
+kernel,[<<NUM>>] __getblk_slow+<HEX>/<HEX>,14
+kernel,[<0214328d>] __getblk+<HEX>/<HEX>,14
+kernel,[<0a8e1ba6>] ext3_reserve_inode_write+<HEX>/<HEX> [ext3],14
+kernel,[<0a8e1c17>] ext3_mark_inode_dirty+<HEX>/<HEX> [ext3],14
+kernel,[<0a8b23ef>] journal_start+<HEX>/<HEX> [jbd],14
+kernel,[<0a8e1c7c>] ext3_dirty_inode+<HEX>/<HEX> [ext3],14
+kernel,[<<NUM>>] __mark_inode_dirty+<HEX>/<HEX>,14
+kernel,[<0215456f>] inode_update_time+<HEX>/<HEX>,14
+kernel,[<0212cfe2>] generic_file_aio_write_nolock+<HEX>/<HEX>,14
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=ip-<NUM>-<NUM>-<NUM>-<NUM>.ip.secureserver.net user=root,14
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=fef535e0 a2=70aa2c a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,14
+ftpd,connection from <IP> () at Fri Jun <NUM> <NUM>:<NUM>:<NUM> <NUM>,13
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=h64-<NUM>-<NUM>-<NUM>.gtconnect.net user=root,13
+kernel,[<<NUM>>] dump_stack+<HEX>/<HEX>,13
+udev,removing device node '/udev/vcsa5',12
+udev,removing device node '/udev/vcs5',12
+udev,removing device node '/udev/vcs6',12
+udev,removing device node '/udev/vcsa6',12
+udev,removing device node '/udev/vcs7',12
+udev,removing device node '/udev/vcsa7',12
+ftpd,connection from <IP> () at Mon Jun <NUM> <NUM>:<NUM>:<NUM> <NUM>,12
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<IP> user=webmaster,12
+ftpd,connection from <IP> (sym.gdsz.cncnet.net) at Thu Oct <NUM> <NUM>:<NUM>:<NUM> <NUM>,12
+ftpd,connection from <IP> (p213.<NUM>.<NUM>.<NUM>.tisdip.tiscali.de) at Fri Oct <NUM> <NUM>:<NUM>:<NUM> <NUM>,12
+kernel,Out of Memory: Killed process <NUM> (updatedb).,12
+kernel,[<0a8e1123>] ext3_get_inode_loc+<HEX>/<HEX> [ext3],12
+kernel,[<021288cf>] __print_symbol+<HEX>/<HEX>,12
+udev,creating device node '/udev/vcs1',11
+udev,creating device node '/udev/vcsa1',11
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=ned.gcdtech.com user=root,11
+sshd(pam_unix),<NUM> more authentication failures; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=ned.gcdtech.com user=root,11
+sshd(pam_unix),service(sshd) ignoring max retries; <NUM> > <NUM>,11
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=kulab-<NUM>-<NUM>.cpc.ku.ac.th user=amanda,11
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.static.jcsn.tn.charter.com,11
+kernel,[<0210737b>] do_IRQ+<HEX>/<HEX>,11
+kernel,[<0212db65>] mempool_alloc+<HEX>/<HEX>,11
+kernel,[<021c8bda>] vt_console_print+<HEX>/<HEX>,11
+kernel,[<021189cd>] printk+<HEX>/<HEX>,11
+kernel,[<021060c2>] show_trace+<HEX>/<HEX>,11
+kernel,"sendmail: page allocation failure. order:<NUM>, mode:<HEX>",11
+kernel,Out of Memory: Killed process <NUM> (sshd).,11
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=mail.xmjl.com user=root,11
+gdm-binary,Couldn't authenticate user,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=under-eepc58.kaist.ac.kr user=root,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=under-eepc58.kaist.ac.kr,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>.ctinets.com,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.ksc2mo.swbell.net,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=ip-<NUM>-<NUM>-<NUM>-<NUM>.ip.secureserver.net,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=massive.merukuru.org,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.dsl.easynet.nl user=root,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=csnsu.nsuok.edu user=root,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=zummit.com,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=p15105218.pureserver.info user=root,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<IP>.nw.nuvox.net user=root,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl user=root,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.ebix.net.tw,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=fastfood.com.pe user=root,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=arx58.internetdsl.tpnet.pl,10
+telnetd,ttloop: read: Connection reset by peer,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=co-f-<NUM>-<NUM>-<NUM>-<NUM>.kgex.com.tw user=root,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=srv2.alfahost.nl,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=s010600112fb9bd72.vf.shawcable.net,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=dpc6682015008.direcpc.com user=root,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.sndg02.pacbell.net user=root,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.ip.fastwebnet.it user=root,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=llekm-static-<IP>.vsnl.net.in,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=ponteix.ssd.sk.ca,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=test.mtc.ntnu.edu.tw,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=www.lssu.edu user=test,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=mail.<NUM>-plan.ru user=root,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.saransk.ru,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=solutions93.cobalt.com user=root,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=vit94-<NUM>-<NUM>-<NUM>-<NUM>-<NUM>.fbx.proxad.net,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=wcn3.tisnet.net.tw user=root,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=ns.cs-net.cz,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.ip.intralot.us user=test,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=mail.ntsec.gov.tw,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>.adsl.lpoy.dnainternet.fi,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=adsl-dynamic-pool-xxx.fpt.vn,10
+kernel,[<02115f01>] __wake_up+<HEX>/<HEX>,10
+kernel,[<0212c5b2>] page_cache_read+<HEX>/<HEX>,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=c-<NUM>-<NUM>-<NUM>-<NUM>.hsd1.il.comcast.net user=root,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=cfp.acm.org,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=ev1s-<NUM>-<NUM>-<NUM>-<NUM>.ev1servers.net,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=xdsl-<NUM>.wroclaw.dialog.net.pl user=test,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.r-bl100.sakura.ne.jp user=root,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=ip67-<NUM>-<NUM>-<NUM>.z174-<NUM>-<NUM>.customer.algx.net,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=ap00.atfdc2-unet.ocn.ne.jp,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=www.njust.edu.cn user=test,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=port0034-abx-adsl.cwjamaica.com,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=host-xe04.kiosk.ws user=root,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=customer-reverse-entry.<IP> user=test,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=ip67-<NUM>-<NUM>-<NUM>.z201-<NUM>-<NUM>.customer.algx.net,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=connect.borran.com user=adm,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.hebragasse.xdsl-line.inode.at user=root,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=pppzss.shenzhen.gd.cn user=nobody,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=dsl-kk-<IP>.touchtelindia.net user=root,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=host-<IP>.addr.tdcsong.se user=root,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=julia.arkos.de user=test,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.lsan03.pacbell.net user=test,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=dsl092-<NUM>-<NUM>.phl1.dsl.speakeasy.net,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.adsl.ttn.net user=test,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>-dsl.est.estpak.ee user=root,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=debsnet1.americannetlink.propagation.net,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=wef.hebiace.edu.cn user=test,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>.red-<NUM>-<NUM>-<NUM>.staticip.rima-tde.net user=root,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=dialup-mum-<IP>.mtnl.net.in user=test,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.pvoce700-nrp1.e.brasiltelecom.net.br user=root,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>.ctinets.com user=root,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.scrm01.pacbell.net,10
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=www.buller.hoover.fresno.k12.ca.us user=root,10
+syslog,syslogd startup succeeded,9
+syslog,klogd startup succeeded,9
+kernel,"klogd <NUM>.<NUM>.<NUM>, log source = /proc/kmsg started.",9
+sendmail,sendmail startup succeeded,9
+sendmail,sm-client startup succeeded,9
+mysqld,Starting MySQL: succeeded,9
+kernel,[<0227e913>] schedule+<HEX>/<HEX>,9
+kernel,[<02115ed2>] __wake_up_common+<HEX>/<HEX>,9
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>-no37.tbcn.telia.com user=root,9
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=wsip-<NUM>-<NUM>-<NUM>-<NUM>.lv.lv.cox.net user=test,9
+ftpd,connection from <IP> () at Tue Feb <NUM> <NUM>:<NUM>:<NUM> <NUM>,9
+ftpd,connection from <IP> (<NUM>.<NUM>.<NUM>-<NUM>.rev.gaoland.net) at Fri Feb <NUM> <NUM>:<NUM>:<NUM> <NUM>,9
+kernel,Linux version <NUM>.<NUM>.<NUM>-<NUM>.<NUM> (bhcompile@bugs.build.redhat.com) (gcc version <NUM>.<NUM>.<NUM> <NUM> (Red Hat Linux <NUM>.<NUM>.<NUM>-<NUM>)) #<NUM> Sat May <NUM> <NUM>:<NUM>:<NUM> EDT <NUM>,8
+kernel,BIOS-provided physical RAM map:,8
+kernel,BIOS-e820: <NUM> - 00000000000a0000 (usable),8
+kernel,BIOS-e820: 00000000000f0000 - <NUM> (reserved),8
+kernel,BIOS-e820: <NUM> - 0000000007eae000 (usable),8
+kernel,BIOS-e820: 0000000007eae000 - <NUM> (reserved),8
+kernel,BIOS-e820: 00000000ffb00000 - <NUM> (reserved),8
+kernel,0MB HIGHMEM available.,8
+kernel,126MB LOWMEM available.,8
+kernel,zapping low mappings.,8
+kernel,On node <NUM> totalpages: <NUM>,8
+kernel,"DMA zone: <NUM> pages, LIFO batch:<NUM>",8
+kernel,"Normal zone: <NUM> pages, LIFO batch:<NUM>",8
+kernel,"HighMem zone: <NUM> pages, LIFO batch:<NUM>",8
+kernel,DMI <NUM>.<NUM> present.,8
+kernel,ACPI disabled because your bios is from <NUM> and too old,8
+kernel,You can enable it with acpi=force,8
+kernel,Built <NUM> zonelists,8
+irqbalance,irqbalance startup succeeded,8
+kernel,mapped 4G/4G trampoline to ffff3000.,8
+kernel,Initializing CPU#<NUM>,8
+portmap,portmap startup succeeded,8
+kernel,"CPU <NUM> irqstacks, hard=<NUM> soft=<NUM>",8
+kernel,PID hash table entries: <NUM> (order <NUM>: <NUM> bytes),8
+kernel,Detected <NUM>.<NUM> MHz processor.,8
+kernel,Using tsc for high-res timesource,8
+kernel,Console: colour VGA+ 80x25,8
+kernel,"Memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)",8
+kernel,Calibrating delay loop... <NUM>.<NUM> BogoMIPS,8
+kernel,Security Scaffold v1.<NUM>.<NUM> initialized,8
+kernel,SELinux: Initializing.,8
+kernel,SELinux: Starting in permissive mode,8
+kernel,"There is already a security framework initialized, register_security failed.",8
+kernel,Failure registering capabilities with the kernel,8
+kernel,selinux_register_security: Registering secondary module capability,8
+kernel,Capability LSM initialized,8
+kernel,"Dentry cache hash table entries: <NUM> (order: <NUM>, <NUM> bytes)",8
+kernel,"Inode-cache hash table entries: <NUM> (order: <NUM>, <NUM> bytes)",8
+kernel,"Mount-cache hash table entries: <NUM> (order: <NUM>, <NUM> bytes)",8
+rpc.statd,Version <NUM>.<NUM>.<NUM> Starting,8
+nfslock,rpc.statd startup succeeded,8
+kernel,"CPU: L1 I cache: 16K, L1 D cache: 16K",8
+kernel,CPU: L2 cache: 256K,8
+kernel,Intel machine check architecture supported.,8
+kernel,Intel machine check reporting enabled on CPU#<NUM>.,8
+kernel,CPU: Intel Pentium III (Coppermine) stepping <NUM>,8
+kernel,Enabling fast FPU save and restore... done.,8
+kernel,Enabling unmasked SIMD FPU exception support... done.,8
+kernel,Checking 'hlt' instruction... OK.,8
+kernel,POSIX conformance testing by UNIFIX,8
+kernel,"PCI: PCI BIOS revision <NUM>.<NUM> entry at <HEX>, last bus=<NUM>",8
+kernel,PCI: Using configuration type <NUM>,8
+kernel,mtrr: v2.<NUM> (<NUM>),8
+kernel,ACPI: Subsystem revision <NUM>,8
+kernel,ACPI: Interpreter disabled.,8
+kernel,Linux Plug and Play Support v0.<NUM> (c) Adam Belay,8
+kernel,usbcore: registered new driver usbfs,8
+kernel,usbcore: registered new driver hub,8
+rpcidmapd,rpc.idmapd startup succeeded,8
+kernel,ACPI: ACPI tables contain no PCI IRQ routing entries,8
+kernel,PCI: Invalid ACPI-PCI IRQ routing table,8
+random,Initializing random number generator: succeeded,8
+kernel,PCI: Probing PCI hardware,8
+kernel,PCI: Probing PCI hardware (bus <NUM>),8
+kernel,Transparent bridge - <NUM>:<NUM>:1e.<NUM>,8
+kernel,PCI: Using IRQ router PIIX/ICH [<NUM>/<NUM>] at <NUM>:<NUM>:1f.<NUM>,8
+kernel,apm: BIOS version <NUM>.<NUM> Flags <HEX> (Driver version <NUM>.16ac),8
+kernel,audit(<NUM>.<NUM>:<NUM>): initialized,8
+kernel,"Total HugeTLB memory allocated, <NUM>",8
+rc,Starting pcmcia: succeeded,8
+kernel,VFS: Disk quotas dquot_6.<NUM>.<NUM>,8
+kernel,"Dquot-cache hash table entries: <NUM> (order <NUM>, <NUM> bytes)",8
+kernel,SELinux: Registering netfilter hooks,8
+kernel,Initializing Cryptographic API,8
+kernel,pci_hotplug: PCI Hot Plug PCI Core version: <NUM>.<NUM>,8
+kernel,isapnp: Scanning for PnP cards...,8
+kernel,isapnp: No Plug & Play device found,8
+kernel,Real Time Clock Driver v1.<NUM>,8
+kernel,Linux agpgart interface v0.<NUM> (c) Dave Jones,8
+kernel,agpgart: Detected an Intel i810 E Chipset.,8
+kernel,agpgart: Maximum main memory to use for agp memory: 93M,8
+bluetooth,hcid startup succeeded,8
+kernel,agpgart: detected 4MB dedicated video ram.,8
+hcid,HCI daemon ver <NUM>.<NUM> started,8
+bluetooth,sdpd startup succeeded,8
+kernel,agpgart: AGP aperture is 64M @ <HEX>,8
+sdpd,sdpd v1.<NUM> started,8
+kernel,"Serial: <NUM>/<NUM> driver $Revision: <NUM>.<NUM> $ <NUM> ports, IRQ sharing enabled",8
+kernel,ttyS0 at I/O <HEX> (irq = <NUM>) is a 16550A,8
+kernel,ttyS1 at I/O <HEX> (irq = <NUM>) is a 16550A,8
+kernel,RAMDISK driver initialized: <NUM> RAM disks of 16384K size <NUM> blocksize,8
+kernel,Uniform Multi-Platform E-IDE driver Revision: <NUM>.00alpha2,8
+netfs,Mounting other filesystems: succeeded,8
+kernel,ide: Assuming 33MHz system bus speed for PIO modes; override with idebus=xx,8
+kernel,ICH: IDE controller at PCI slot <NUM>:<NUM>:1f.<NUM>,8
+apmd,"Version <NUM>.<NUM>.<NUM> (APM BIOS <NUM>.<NUM>, Linux driver <NUM>.16ac)",8
+apmd,apmd startup succeeded,8
+kernel,ICH: chipset revision <NUM>,8
+kernel,ICH: not <NUM>%% native mode: will probe irqs later,8
+kernel,"ide0: BM-DMA at <HEX>-<HEX>, BIOS settings: hda:DMA, hdb:pio",8
+autofs,automount startup succeeded,8
+kernel,"ide1: BM-DMA at <HEX>-<HEX>, BIOS settings: hdc:DMA, hdd:pio",8
+kernel,"hda: IBM-DTLA-<NUM>, ATA DISK drive",8
+smartd,smartd version <NUM>.<NUM> Copyright (C) <NUM>-<NUM> Bruce Allen,8
+kernel,Using cfq io scheduler,8
+smartd,Home page is http://smartmontools.sourceforge.net/,8
+kernel,"ide0 at <HEX>-<HEX>,<HEX> on irq <NUM>",8
+smartd,Opened configuration file /etc/smartd.conf,8
+kernel,"hdc: SAMSUNG CD-ROM SN-<NUM>, ATAPI CD/DVD-ROM drive",8
+smartd,Configuration file /etc/smartd.conf parsed.,8
+kernel,hdc: Disabling (U)DMA for SAMSUNG CD-ROM SN-<NUM> (blacklisted),8
+smartd,"Device: /dev/hda, opened",8
+kernel,"ide1 at <HEX>-<HEX>,<HEX> on irq <NUM>",8
+apmd,Charge: * * * (-<NUM>% unknown),8
+smartd,"Device: /dev/hda, found in smartd database.",8
+kernel,hda: max request size: 128KiB,8
+smartd,"Device: /dev/hda, is SMART capable. Adding to ""monitor"" list.",8
+kernel,"hda: <NUM> sectors (<NUM> MB) w/1916KiB Cache, CHS=<NUM>/<NUM>/<NUM>, UDMA(<NUM>)",8
+smartd,Monitoring <NUM> ATA and <NUM> SCSI devices,8
+kernel,hda: hda1 hda2 hda3,8
+smartd,smartd has fork()ed into background mode. New PID=<NUM>.,8
+smartd,smartd startup succeeded,8
+kernel,"hdc: ATAPI 24X CD-ROM drive, 128kB Cache",8
+kernel,Uniform CD-ROM driver Revision: <NUM>.<NUM>,8
+kernel,ide-floppy driver <NUM>.<NUM>.newide,8
+kernel,usbcore: registered new driver hiddev,8
+kernel,usbcore: registered new driver hid,8
+kernel,drivers/usb/input/hid-core.c: v2.<NUM>:USB HID core driver,8
+kernel,mice: PS/<NUM> mouse device common for all mice,8
+kernel,"serio: i8042 AUX port at <HEX>,<HEX> irq <NUM>",8
+kernel,input: ImPS/<NUM> Logitech Wheel Mouse on isa0060/serio1,8
+kernel,"serio: i8042 KBD port at <HEX>,<HEX> irq <NUM>",8
+kernel,input: AT Translated Set <NUM> keyboard on isa0060/serio0,8
+kernel,"md: md driver <NUM>.<NUM>.<NUM> MAX_MD_DEVS=<NUM>, MD_SB_DISKS=<NUM>",8
+kernel,"IP: routing cache hash table of <NUM> buckets, 4Kbytes",8
+kernel,TCP: Hash tables configured (established <NUM> bind <NUM>),8
+kernel,Initializing IPsec netlink socket,8
+kernel,checking if image is initramfs...it isn't (no cpio magic); looks like an initrd,8
+kernel,Freeing initrd memory: 186k freed,8
+kernel,md: Autodetecting RAID arrays.,8
+kernel,md: autorun ...,8
+kernel,md: ... autorun DONE.,8
+kernel,RAMDISK: Compressed image found at block <NUM>,8
+rc,Starting hpoj: succeeded,8
+kernel,VFS: Mounted root (ext2 filesystem).,8
+kernel,Freeing unused kernel memory: 144k freed,8
+kernel,Disabled Privacy Extensions on device 022db720(lo),8
+kernel,IPv6 over IPv4 tunneling driver,8
+kernel,USB Universal Host Controller Interface driver v2.<NUM>,8
+kernel,PCI: Found IRQ <NUM> for device <NUM>:<NUM>:1f.<NUM>,8
+kernel,uhci_hcd <NUM>:<NUM>:1f.<NUM>: UHCI Host Controller,8
+kernel,"uhci_hcd <NUM>:<NUM>:1f.<NUM>: irq <NUM>, io base 0000ff80",8
+kernel,"uhci_hcd <NUM>:<NUM>:1f.<NUM>: new USB bus registered, assigned bus number <NUM>",8
+kernel,hub <NUM>-<NUM>:<NUM>.<NUM>: USB hub found,8
+kernel,hub <NUM>-<NUM>:<NUM>.<NUM>: <NUM> ports detected,8
+kernel,"EXT3 FS on hda2, internal journal",8
+kernel,device-mapper: <NUM>.<NUM>.<NUM>-ioctl (<NUM>-<NUM>-<NUM>) initialised: dm@uk.sistina.com,8
+kernel,cdrom: open failed.,8
+kernel,Adding 262072k swap on /dev/hda3. Priority:-<NUM> extents:<NUM>,8
+kernel,"EXT3 FS on hda1, internal journal",8
+kernel,IA-<NUM> Microcode Update Driver: v1.<NUM> <tigran@veritas.com>,8
+kernel,microcode: CPU0 already at revision <HEX> (current=<HEX>),8
+kernel,microcode: No suitable data for cpu <NUM>,8
+kernel,SCSI subsystem initialized,8
+kernel,inserting floppy driver for <NUM>.<NUM>.<NUM>-<NUM>.<NUM>,8
+kernel,Floppy drive(s): fd0 is <NUM>.44M,8
+kernel,FDC <NUM> is a National Semiconductor PC87306,8
+kernel,process `syslogd' is using obsolete setsockopt SO_BSDCOMPAT,8
+kernel,Bluetooth: Core ver <NUM>.<NUM>,8
+kernel,Bluetooth: HCI device and connection manager initialized,8
+kernel,Bluetooth: HCI socket layer initialized,8
+kernel,Bluetooth: L2CAP ver <NUM>.<NUM>,8
+kernel,Bluetooth: L2CAP socket layer initialized,8
+kernel,Bluetooth: RFCOMM ver <NUM>.<NUM>,8
+kernel,Bluetooth: RFCOMM socket layer initialized,8
+kernel,Bluetooth: RFCOMM TTY layer initialized,8
+kernel,lp0: using parport0 (polling).,8
+kernel,lp0: console ready,8
+sshd,succeeded,8
+xinetd,xinetd startup succeeded,8
+xinetd,No such internal service: services/stream - DISABLING,8
+xinetd,bind failed (Address already in use (errno = <NUM>)). service = telnet,8
+xinetd,Service telnet failed to start and is deactivated.,8
+xinetd,xinetd Version <NUM>.<NUM>.<NUM> started with libwrap loadavg options compiled in.,8
+xinetd,Started working: <NUM> available services,8
+spamassassin,spamd startup succeeded,8
+udev,creating device node '/udev/lp0',8
+privoxy,privoxy startup succeeded,8
+gpm,*** info [startup.c(<NUM>)]:,8
+gpm,Started gpm successfully. Entered daemon mode.,8
+gpm,gpm startup succeeded,8
+su(pam_unix),session opened for user htt by (uid=<NUM>),8
+su(pam_unix),session closed for user htt,8
+IIim,htt startup succeeded,8
+htt_server,started.,8
+canna,succeeded,8
+crond,crond startup succeeded,8
+xfs,xfs startup succeeded,8
+anacron,anacron startup succeeded,8
+atd,atd startup succeeded,8
+readahead,Starting background readahead:,8
+rc,Starting readahead: succeeded,8
+messagebus,messagebus startup succeeded,8
+httpd,httpd startup succeeded,8
+squid,Squid Parent: child process <NUM> started,8
+named,starting BIND <NUM>.<NUM>.<NUM> -u named -t /var/named/chroot,8
+named,using <NUM> CPU,8
+named,named startup succeeded,8
+named,loading configuration from '/etc/named.conf',8
+named,"listening on IPv4 interface lo, <IP>#<NUM>",8
+named,"listening on IPv4 interface eth0, <IP>#<NUM>",8
+snmpd,snmpd startup succeeded,8
+snmpd,NET-SNMP version <NUM>.<NUM>.<NUM>,8
+ntpd,ntpd <NUM>.<NUM>.<NUM>@<NUM>.<NUM>-r Thu Mar <NUM> <NUM>:<NUM>:<NUM> EST <NUM> (<NUM>),8
+ntpd,ntpd startup succeeded,8
+ntpd,precision = <NUM>.<NUM> usec,8
+ntpd,kernel time sync status <NUM>,8
+ntpd,frequency initialized <NUM>.<NUM> PPM from /var/lib/ntp/drift,8
+ntpd,"configure: keyword ""authenticate"" unknown, line ignored",8
+named,couldn't add command channel <IP>#<NUM>: not found,8
+named,couldn't add command channel ::<NUM>#<NUM>: not found,8
+named,running,8
+rsyncd,"rsyncd version <NUM>.<NUM>.<NUM> starting, listening on port <NUM>",8
+mdmonitor,mdadm succeeded,8
+mdmpd,mdmpd failed,8
+ntpd,"synchronized to LOCAL(<NUM>), stratum=<NUM>",8
+ntpd,kernel time sync disabled <NUM>,8
+ntpd,kernel time sync enabled <NUM>,8
+xinetd,file descriptor of service comsat has been closed,8
+xinetd,select reported EBADF but no bad file descriptors were found,8
+ftpd,connection from <IP> (<NUM>-<NUM>-<NUM>-<NUM>.bflony.adelphia.net) at Fri Jun <NUM> <NUM>:<NUM>:<NUM> <NUM>,8
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl,8
+klogind,Authentication failed from <IP> (<IP>): Permission denied in replay cache code,8
+login(pam_unix),session closed for user root,8
+ftpd,User unknown timed out after <NUM> seconds at Sat Aug <NUM> <NUM>:<NUM>:<NUM> <NUM>,8
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=alf-<IP>.zonepro-serveurs.net,8
+ftpd,connection from <IP> (<NUM>-<NUM>.<NUM>.<NUM>.adsl.skynet.be) at Wed Feb <NUM> <NUM>:<NUM>:<NUM> <NUM>,8
+ftpd,"ANONYMOUS FTP LOGIN FROM <IP>, <NUM>-<NUM>.<NUM>.<NUM>.adsl.skynet.be (Sgpuser@home.com)",8
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.sntc01.sbcglobal.net user=test,8
+kernel,Kernel command line: ro root=LABEL=/ rhgb quiet,7
+kernel,audit: initializing netlink socket (disabled),7
+network,Setting network parameters: succeeded,7
+network,Bringing up loopback interface: succeeded,7
+kernel,SELinux: Disabled at runtime.,7
+kernel,SELinux: Unregistering netfilter hooks,7
+gdm(pam_unix),bad username [],7
+ftpd,connection from <IP> (lns-vlq-<NUM>-tou-<NUM>-<NUM>-<NUM>-<NUM>.adsl.proxad.net) at Fri Jun <NUM> <NUM>:<NUM>:<NUM> <NUM>,7
+login(pam_unix),session opened for user root by LOGIN(uid=<NUM>),7
+ftpd,connection from <IP> (ALyon-<NUM>-<NUM>-<NUM>-<NUM>.w86-<NUM>.abo.wanadoo.fr) at Mon Sep <NUM> <NUM>:<NUM>:<NUM> <NUM>,7
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.webtal.com.br,7
+kernel,Out of Memory: Killed process <NUM> (ld-linux.so.<NUM>).,7
+kernel,[<<NUM>>] call_console_drivers+<HEX>/<HEX>,7
+kernel,[<0212c784>] filemap_nopage+<HEX>/<HEX>,7
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=server3.sugolan.hu,7
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=mail.fullerproperties.com user=root,7
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.static.exatt.net user=root,7
+udev,removing device node '/udev/vcs1',6
+udev,removing device node '/udev/vcsa1',6
+-- root,ROOT LOGIN ON tty2,6
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=i222-<NUM>-<NUM>-<NUM>.s02.a012.ap.plala.or.jp user=root,6
+squid,.,6
+ftpd,connection from <IP> (ulm9-d9bdb268.pool.mediaWays.net) at Mon Oct <NUM> <NUM>:<NUM>:<NUM> <NUM>,6
+ftpd,connection from <IP> (p54B83776.dip0.t-ipconnect.de) at Sun Nov <NUM> <NUM>:<NUM>:<NUM> <NUM>,6
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=ridsdale.plus.com user=root,6
+kernel,[<0213f3d3>] get_user_size+<HEX>/<HEX>,6
+ftpd,connection from <IP> () at Sat Nov <NUM> <NUM>:<NUM>:<NUM> <NUM>,6
+ftpd,connection from <IP> () at Wed Dec <NUM> <NUM>:<NUM>:<NUM> <NUM>,6
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=mailman.ywso.com user=test,6
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> inode=<NUM> dev=<NUM>:<NUM>,6
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.dsl.teksavvy.com user=test,6
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=c-<NUM>-<NUM>-<NUM>-<NUM>.hsd1.nj.comcast.net,6
+ftpd,setsockopt (IP_TOS): Operation not supported,6
+udev,removing device node '/udev/vcsa8',5
+udev,removing device node '/udev/vcs8',5
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=d211-<NUM>-<NUM>-<NUM>.rev.krline.net,5
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com user=root,5
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=stat.<NUM>-<NUM>-<NUM>-<NUM>.atlanet.it,5
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=dms.geos.ntnu.edu.tw,5
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=user-12ldoks.cable.mindspring.com,5
+sendmail,sendmail shutdown failed,5
+kernel,Kernel logging (proc) stopped.,5
+kernel,Kernel log daemon terminating.,5
+syslog,klogd shutdown succeeded,5
+init,open(/dev/pts/<NUM>): No such file or directory,5
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=fparas.securepathways.com,5
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=coldea.teleson.ro user=guest,5
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=bozesan.teleson.ro user=test,5
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=mail.23rhodes.net,5
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<IP> user=postfix,5
+kernel,[<0215242b>] dput+<HEX>/<HEX>,5
+kernel,[<021c8b76>] vt_console_print+<HEX>/<HEX>,5
+kernel,[<<NUM>>] __call_console_drivers+<HEX>/<HEX>,5
+kernel,[<021359c3>] do_wp_page+<HEX>/<HEX>,5
+kernel,[<021208bf>] sys_rt_sigaction+<HEX>/<HEX>,5
+kernel,[<021529bb>] d_alloc+<HEX>/<HEX>,5
+kernel,[<02152b72>] d_instantiate+<HEX>/<HEX>,5
+kernel,[<0211fc74>] sys_rt_sigprocmask+<HEX>/<HEX>,5
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/dev/pts/<NUM> inode=<NUM> dev=<NUM>:<NUM>,5
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.dimenoc.com user=root,5
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>.red-<NUM>-<NUM>-<NUM>.staticip.rima-tde.net user=fax,5
+kernel,EXT3-fs: INFO: recovery required on readonly filesystem.,4
+kernel,EXT3-fs: write access will be enabled during recovery.,4
+kernel,EXT3-fs: recovery complete.,4
+sysctl,kernel.core_uses_pid = <NUM>,4
+snmpd,Received SNMP packet(s) from <IP>,4
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=c9063558.virtua.com.br,4
+login,"FAILED LOGIN <NUM> FROM (null) FOR , Authentication failure",4
+shutdown,shutting down for system reboot,4
+init,Switching to runlevel: <NUM>,4
+atd,atd shutdown succeeded,4
+privoxy,privoxy shutdown succeeded,4
+cannaserver,irw_killserver:cannaserver end,4
+canna,Stopping Canna server: succeeded,4
+gpm,gpm shutdown succeeded,4
+httpd,httpd shutdown succeeded,4
+squid,Stopping squid:,4
+squid,,4
+squid,Squid Parent: child process <NUM> exited with status <NUM>,4
+rc,Stopping squid: succeeded,4
+sshd,sshd -TERM succeeded,4
+spamassassin,spamd shutdown succeeded,4
+smartd,smartd received signal <NUM>: Terminated,4
+smartd,smartd is exiting (exit status <NUM>),4
+smartd,smartd shutdown succeeded,4
+snmpd,Received TERM or STOP signal... shutting down...,4
+snmpd,snmpd shutdown succeeded,4
+xinetd,Exiting...,4
+xinetd,xinetd shutdown succeeded,4
+crond,crond shutdown succeeded,4
+apmd,Exiting,4
+apmd,apmd shutdown succeeded,4
+ntpd,ntpd exiting on signal <NUM>,4
+ntpd,ntpd shutdown succeeded,4
+dd,<NUM>+<NUM> records in,4
+dd,<NUM>+<NUM> records out,4
+random,Saving random seed: succeeded,4
+passwd(pam_unix),password changed for test,4
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=h9-<NUM>-<NUM>-<NUM>.seed.net.tw,4
+kernel,[<0211c38d>] proc_dointvec+<HEX>/<HEX>,4
+kernel,[<0211c01d>] do_proc_dointvec_conv+<HEX>/<HEX>,4
+kernel,[<021295e4>] check_free_space+<HEX>/<HEX>,4
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=c-<NUM>-<NUM>-<NUM>-<NUM>.hsd1.il.comcast.net user=test,4
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.nh.sparqnet.net,4
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=h8441253073.dsl.speedlinq.nl user=root,4
+ftpd,connection from <IP> (mx.dyn.com.ar) at Sat Feb <NUM> <NUM>:<NUM>:<NUM> <NUM>,4
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=host81-<NUM>-<NUM>-<NUM>.in-addr.btopenworld.com,4
+mysqld,Stopping MySQL: succeeded,3
+gpm,*** info [client.c(<NUM>)]:,3
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=server.novacero.com user=test,3
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=pcp0012132427pcs.benslm01.pa.comcast.net user=webmaster,3
+sendmail,sm-client shutdown succeeded,3
+messagebus,messagebus -TERM succeeded,3
+xfs,terminating,3
+xfs,xfs shutdown succeeded,3
+FreeWnn,jserver shutdown succeeded,3
+rpc.statd,"Caught signal <NUM>, un-registering and exiting.",3
+nfslock,rpc.statd shutdown succeeded,3
+portmap,portmap shutdown succeeded,3
+sendmail,sm-client shutdown failed,3
+sshd(pam_unix),<NUM> more authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<IP> user=test,3
+sendmail,sendmail shutdown succeeded,3
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=host112118.metrored.net.mx user=test,3
+kernel,[<0211bdc5>] do_rw_proc+<HEX>/<HEX>,3
+kernel,[<02142d47>] invalidate_inode_buffers+<HEX>/<HEX>,3
+kernel,[<021287f4>] __print_symbol+<HEX>/<HEX>,3
+kernel,[<021359f7>] do_wp_page+<HEX>/<HEX>,3
+kernel,[<021364c6>] handle_mm_fault+<HEX>/<HEX>,3
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=<NUM> a2=<NUM> a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,3
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/dev/log inode=<NUM> dev=<NUM>:<NUM>,3
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/proc/sys/kernel/modprobe inode=<NUM> dev=<NUM>:<NUM>,3
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/var/gdm/.gdmfifo inode=<NUM> dev=<NUM>:<NUM>,3
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=ftc.fullerproperties.com user=root,3
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=mail.varpalota.hu user=root,3
+ftpd,connection from <IP> (P6c2c.p.pppool.de) at Fri Feb <NUM> <NUM>:<NUM>:<NUM> <NUM>,3
+ftpd,connection from <IP> (mx.dyn.com.ar) at Fri Feb <NUM> <NUM>:<NUM>:<NUM> <NUM>,3
+privoxy,Jun <NUM> <NUM>:<NUM>:<NUM> Privoxy(-<NUM>) Info: loading configuration file '/etc/privoxy/config':,2
+ftpd,"ANONYMOUS FTP LOGIN FROM <IP>, (anonymous)",2
+login(pam_unix),bad username [ ],2
+login(pam_unix),bad username [],2
+login,"FAILED LOGIN <NUM> FROM (null) FOR root, Authentication failure",2
+ftpd,connection from <IP> (ip-<NUM>-<NUM>.evhr.net) at Tue Sep <NUM> <NUM>:<NUM>:<NUM> <NUM>,2
+ftpd,User unknown timed out after <NUM> seconds at Thu Sep <NUM> <NUM>:<NUM>:<NUM> <NUM>,2
+ftpd,connection from <IP> () at Thu Sep <NUM> <NUM>:<NUM>:<NUM> <NUM>,2
+privoxy,Sep <NUM> <NUM>:<NUM>:<NUM> Privoxy(-<NUM>) Info: loading configuration file '/etc/privoxy/config':,2
+ftpd,connection from <IP> (cpe-<NUM>-<NUM>-<NUM>-<NUM>.houston.res.rr.com) at Tue Sep <NUM> <NUM>:<NUM>:<NUM> <NUM>,2
+named,shutting down,2
+named,exiting,2
+named,named shutdown succeeded,2
+su(pam_unix),session opened for user test by root(uid=<NUM>),2
+su(pam_unix),session closed for user test,2
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=www.shatura.com,2
+sshd(pam_unix),<NUM> more authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=bozesan.teleson.ro user=test,2
+passwd(pam_unix),authentication failure; logname=test uid=<NUM> euid=<NUM> tty= ruser= rhost= user=test,2
+klogind,Authentication failed from <IP> (<NUM>-<NUM>-<NUM>-<NUM>-cable.canals.ro): Software caused connection abort,2
+sysctl,net.ipv4.conf.default.rp_filter = <NUM>,2
+sysctl,kernel.sysrq = <NUM>,2
+kernel,Out of Memory: Killed process <NUM> (named).,2
+kernel,[<0214201b>] __fput+<HEX>/<HEX>,2
+kernel,VM: killing process sendmail,2
+kernel,[<02135b2f>] do_wp_page+<HEX>/<HEX>,2
+kernel,[<<NUM>>] do_IRQ+<HEX>/<HEX>,2
+kernel,[<0a8e11ed>] ext3_get_inode_loc+<HEX>/<HEX> [ext3],2
+kernel,[<02221a76>] input_unregister_device+<HEX>/<HEX>,2
+ftpd,connection from <IP> (ARennes-<NUM>-<NUM>-<NUM>-<NUM>.w81-<NUM>.abo.wanadoo.fr) at Fri Dec <NUM> <NUM>:<NUM>:<NUM> <NUM>,2
+mysqld,Stopping MySQL: failed,2
+named,named shutdown failed,2
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.pltn13.pacbell.net user=root,2
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=alternativadigital.inext.net.mx user=test,2
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=wsip-<NUM>-<NUM>-<NUM>-<NUM>.lv.lv.cox.net,2
+kernel,"SELinux: initialized (dev , type tmpfs), uses transition SIDs",2
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/initrd inode=<NUM> dev=<NUM>:<NUM>,2
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/initrd/rhgb-socket inode=<NUM> dev=<NUM>:<NUM>,2
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/initrd/XFree86.<NUM>.log inode=<NUM> dev=<NUM>:<NUM>,2
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/sys//devices/pci0000:<NUM>/<NUM>:<NUM>:1f.<NUM>/usb1/bNumConfigurations inode=<NUM> dev=<NUM>:<NUM>,2
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/dev/mapper/control inode=<NUM> dev=<NUM>:<NUM>,2
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/udev/device-mapper inode=<NUM> dev=0a:3f,2
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/dev/mapper/control inode=<NUM> dev=0a:3f,2
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/dev/pts inode=<NUM> dev=<NUM>:<NUM>,2
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/proc/sys/kernel/hotplug inode=<NUM> dev=<NUM>:<NUM>,2
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=fef3cbb0 a2=aea13c a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,2
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/bin/bash inode=<NUM> dev=<NUM>:<NUM>,2
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=ast198.internetdsl.tpnet.pl user=root,2
+ftpd,connection from <IP> (P6c65.p.pppool.de) at Thu Feb <NUM> <NUM>:<NUM>:<NUM> <NUM>,2
+ftpd,connection from <IP> (P6c65.p.pppool.de) at Fri Feb <NUM> <NUM>:<NUM>:<NUM> <NUM>,2
+ftpd,connection from <IP> (P56f9.p.pppool.de) at Fri Feb <NUM> <NUM>:<NUM>:<NUM> <NUM>,2
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=ip64-<NUM>-<NUM>-<NUM>.z48-<NUM>-<NUM>.customer.algx.net,2
+ftpd,connection from <IP> (bby35.neoplus.adsl.tpnet.pl) at Sun Feb <NUM> <NUM>:<NUM>:<NUM> <NUM>,2
+ftpd,connection from <IP> (alpu2nts.alpura.com) at Sun Feb <NUM> <NUM>:<NUM>:<NUM> <NUM>,2
+kernel,EXT3-fs: hda2: orphan cleanup on readonly fs,1
+kernel,EXT3-fs: hda2: <NUM> orphan inodes deleted,1
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=itsc.iasi.astral.ro,1
+gdm(pam_unix),bad username [;;],1
+ftpd,User unknown timed out after <NUM> seconds at Sat Jun <NUM> <NUM>:<NUM>:<NUM> <NUM>,1
+gdm(pam_unix),check pass; user unknown,1
+gdm(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=:<NUM> ruser= rhost=,1
+privoxy,Jul <NUM> <NUM>:<NUM>:<NUM> Privoxy(-<NUM>) Info: loading configuration file '/etc/privoxy/config':,1
+gpm,Connecting at fd <NUM>,1
+gpm,Request on <NUM> (console <NUM>),1
+gpm,Closing,1
+ftpd,User unknown timed out after <NUM> seconds at Sun Aug <NUM> <NUM>:<NUM>:<NUM> <NUM>,1
+login(pam_unix),authentication failure; logname=LOGIN uid=<NUM> euid=<NUM> tty=tty2 ruser= rhost= user=root,1
+login(pam_unix),check pass; user unknown,1
+login(pam_unix),authentication failure; logname=LOGIN uid=<NUM> euid=<NUM> tty=tty2 ruser= rhost=,1
+login,"FAILED LOGIN <NUM> FROM (null) FOR nf, Authentication failure",1
+login,"FAILED LOGIN SESSION FROM (null) FOR root, Authentication failure",1
+login(pam_unix),<NUM> more authentication failures; logname=LOGIN uid=<NUM> euid=<NUM> tty=tty2 ruser= rhost= user=root,1
+/sbin/mingetty,tty2: invalid character <HEX> in login name,1
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=lneuilly-<NUM>-<NUM>-<NUM>-<NUM>.w193-<NUM>.abo.wanadoo.fr user=root,1
+ftpd,User unknown timed out after <NUM> seconds at Wed Sep <NUM> <NUM>:<NUM>:<NUM> <NUM>,1
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=donau064.server4you.de user=root,1
+network,Bringing up interface eth0: succeeded,1
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=nous.soft.net user=root,1
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=maior.teleson.ro user=info,1
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=maior.teleson.ro user=webmaster,1
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=www.etsin.upm.es user=root,1
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=squid.netcomputers.ro user=test,1
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=iorganet3.teleson.ro,1
+wall,wall: user test broadcasted <NUM> lines (<NUM> chars),1
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>-cable.canals.ro user=test,1
+ftpd,connection from <IP> (user-10cm1iq.cable.mindspring.com) at Wed Oct <NUM> <NUM>:<NUM>:<NUM> <NUM>,1
+ftpd,connection from <IP> (<NUM>-<NUM>-<NUM>-<NUM>-cable.canals.ro) at Sat Oct <NUM> <NUM>:<NUM>:<NUM> <NUM>,1
+fingerd,Client hung up - probable port-scan,1
+rsyncd,rsync: connection unexpectedly closed (<NUM> bytes read so far),1
+rsyncd,rsync error: error in rsync protocol data stream (code <NUM>) at io.c(<NUM>),1
+cups-lpd,Connection from <NUM>-<NUM>-<NUM>-<NUM>-cable.canals.ro (<IP>),1
+in.rexecd,connect from <NUM>-<NUM>-<NUM>-<NUM>-cable.canals.ro,1
+ftpd,connection from <IP> (<NUM>-<NUM>-<NUM>-<NUM>-cable.canals.ro) at Sun Oct <NUM> <NUM>:<NUM>:<NUM> <NUM>,1
+snmpd,[smux_accept] accepted fd <NUM> from <IP>:<NUM>,1
+cups-lpd,Unable to get command line from client!,1
+rshd,Connection from <IP> on illegal port,1
+rlogind,Connection from <IP> on illegal port,1
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>-cable.canals.ro user=root,1
+sshd(pam_unix),<NUM> more authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>-cable.canals.ro user=root,1
+squid,^[[60G[ ^[[<NUM>;32m,1
+privoxy,Oct <NUM> <NUM>:<NUM>:<NUM> Privoxy(-<NUM>) Info: loading configuration file '/etc/privoxy/config':,1
+kernel,hda: dma_timer_expiry: dma status == <HEX>,1
+kernel,hda: DMA timeout retry,1
+kernel,hda: timeout waiting for DMA,1
+kernel,hda: status timeout: status=<HEX> { Busy },1
+kernel,hda: drive not ready for command,1
+kernel,ide0: reset: success,1
+kernel,spurious 8259A interrupt: IRQ7.,1
+kernel,Out of Memory: Killed process <NUM> (xfs).,1
+kernel,Out of Memory: Killed process <NUM> (jserver).,1
+kernel,Out of Memory: Killed process <NUM> (crond).,1
+kernel,Out of Memory: Killed process <NUM> (htt_server).,1
+kernel,Out of Memory: Killed process <NUM> (rpc.statd).,1
+kernel,[<02135fdc>] do_swap_page+<HEX>/<HEX>,1
+kernel,[<0212d1de>] generic_file_aio_write_nolock+<HEX>/<HEX>,1
+kernel,[<021284a0>] module_text_address+<HEX>/<HEX>,1
+kernel,Out of Memory: Killed process <NUM> (prelink).,1
+kernel,Out of Memory: Killed process <NUM> (portmap).,1
+kernel,Out of Memory: Killed process <NUM> (rpmq).,1
+kernel,Out of Memory: Killed process <NUM> (sort).,1
+kernel,Out of Memory: Killed process <NUM> (dbus-daemon-<NUM>).,1
+kernel,printk: <NUM> messages suppressed.,1
+kernel,[<02134aa0>] clear_page_tables+<HEX>/<HEX>,1
+kernel,[<02137b89>] free_pgtables+<HEX>/<HEX>,1
+kernel,[<02137ca8>] unmap_region+<HEX>/<HEX>,1
+kernel,[<02137c1f>] unmap_vma_list+<HEX>/<HEX>,1
+kernel,[<0212144c>] sys_setuid+<HEX>/<HEX>,1
+kernel,Out of Memory: Killed process <NUM> (diskcheck).,1
+gdm,Master rebooting...,1
+messagebus,messagebus shutdown failed,1
+xfs,xfs shutdown failed,1
+FreeWnn,jserver shutdown failed,1
+squid,^[[60G[ ^[[<NUM>;32mOK,1
+nfslock,rpc.statd shutdown failed,1
+portmap,portmap shutdown failed,1
+privoxy,Dec <NUM> <NUM>:<NUM>:<NUM> Privoxy(-<NUM>) Info: loading configuration file '/etc/privoxy/config':,1
+-- root,ROOT LOGIN ON tty3,1
+gdm(pam_unix),bad username [\],1
+syslog,syslogd shutdown succeeded,1
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=mail.apcosoft.net user=root,1
+kernel,Kernel command line: ro root=LABEL=/ rhgb quiet audit=<NUM>,1
+kernel,audit: enabled (after initialization),1
+kernel,audit: initializing netlink socket (enabled),1
+kernel,"security: <NUM> users, <NUM> roles, <NUM> types, <NUM> bools",1
+kernel,"security: <NUM> classes, <NUM> rules",1
+kernel,SELinux: Completing initialization.,1
+kernel,SELinux: Setting up existing superblocks.,1
+kernel,"SELinux: initialized (dev , type selinuxfs), uses genfs_contexts",1
+kernel,"SELinux: initialized (dev hda2, type ext3), uses xattr",1
+kernel,"SELinux: initialized (dev ram0, type ext2), uses xattr",1
+kernel,"SELinux: initialized (dev , type mqueue), not configured for labeling",1
+kernel,"SELinux: initialized (dev , type hugetlbfs), not configured for labeling",1
+kernel,"SELinux: initialized (dev , type devpts), uses transition SIDs",1
+kernel,"SELinux: initialized (dev , type eventpollfs), uses genfs_contexts",1
+kernel,"SELinux: initialized (dev , type pipefs), uses task SIDs",1
+kernel,"SELinux: initialized (dev , type futexfs), uses genfs_contexts",1
+kernel,"SELinux: initialized (dev , type sockfs), uses task SIDs",1
+kernel,"SELinux: initialized (dev , type proc), uses genfs_contexts",1
+kernel,"SELinux: initialized (dev , type bdev), uses genfs_contexts",1
+kernel,"SELinux: initialized (dev , type rootfs), uses genfs_contexts",1
+kernel,"SELinux: initialized (dev , type sysfs), uses genfs_contexts",1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { getattr } for pid=<NUM> exe=/sbin/init path=/dev/initctl dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=fifo_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { read write } for pid=<NUM> exe=/sbin/init name=initctl dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=fifo_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { syslog_console } for pid=<NUM> exe=/bin/dmesg scontext=system_u:system_r:kernel_t tcontext=system_u:system_r:kernel_t tclass=system,1
+kernel,"SELinux: initialized (dev , type ramfs), uses genfs_contexts",1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { setattr } for pid=<NUM> exe=/usr/bin/rhgb name=/ dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ramfs_t tclass=dir,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=805ccbd a1=1c0 a2=9a397c8 a3=1c0 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { search } for pid=<NUM> exe=/sbin/ifconfig name=net dev= ino=-<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysctl_net_t tclass=dir,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=8051f0f a1=<NUM> a2=80545a0 a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/proc/sys/net/econet,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { search } for pid=<NUM> exe=/usr/bin/rhgb dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ramfs_t tclass=dir,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { write } for pid=<NUM> exe=/usr/bin/rhgb dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ramfs_t tclass=dir,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { add_name } for pid=<NUM> exe=/usr/bin/rhgb name=rhgb-socket scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ramfs_t tclass=dir,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { create } for pid=<NUM> exe=/usr/bin/rhgb name=rhgb-socket scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ramfs_t tclass=sock_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=feee2dd0 a2=<NUM> a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { setattr } for pid=<NUM> exe=/usr/bin/rhgb name=rhgb-socket dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ramfs_t tclass=sock_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=805cd2b a1=1c0 a2=<NUM> a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { create } for pid=<NUM> exe=/usr/X11R6/bin/Xorg name=XFree86.<NUM>.log scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ramfs_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=8fea430 a1=<NUM> a2=1b6 a3=1b6 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/X11R6/bin/Xorg scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:xserver_port_t tclass=tcp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=fee65200 a2=<NUM> a3=fee65260 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { write } for pid=<NUM> exe=/usr/X11R6/bin/Xorg path=/initrd/XFree86.<NUM>.log dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ramfs_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=81f6f20 a2=b a3=b items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { write } for pid=<NUM> exe=/usr/X11R6/bin/Xorg name=<NUM>.<NUM> dev= ino=-<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:proc_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=fee652b0 a1=<NUM> a2=<NUM> a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/proc/bus/pci/<NUM>/<NUM>.<NUM> inode=<NUM> dev=<NUM>:<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { execute } for pid=<NUM> path=/dev/mem dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=chr_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=f0000 a1=<NUM> a2=<NUM> a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { search } for pid=<NUM> exe=/usr/lib/vte/gnome-pty-helper dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:devpts_t tclass=dir,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=682cc3 a1=<NUM> a2=<NUM> a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/dev/ptmx inode=<NUM> dev=<NUM>:<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { getattr } for pid=<NUM> exe=/usr/lib/vte/gnome-pty-helper path=/dev/pts/<NUM> dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:devpts_t tclass=chr_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=fef6c158 a1=fef6c0ac a2=68cffc a3=fef6c09f items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { read write } for pid=<NUM> exe=/usr/lib/vte/gnome-pty-helper name=<NUM> dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:devpts_t tclass=chr_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=fef6d1cc a1=<NUM> a2=<NUM> a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { ioctl } for pid=<NUM> exe=/usr/lib/vte/gnome-pty-helper path=/dev/pts/<NUM> dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:devpts_t tclass=chr_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=<NUM> a2=fef6d168 a3=fef6d168 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { setattr } for pid=<NUM> exe=/usr/lib/vte/gnome-pty-helper name=<NUM> dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:devpts_t tclass=chr_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { write } for pid=<NUM> exe=/usr/bin/rhgb-client name=rhgb-socket dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ramfs_t tclass=sock_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=feea18b0 a2=68cffc a3=9bc9858 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { write } for pid=<NUM> exe=/sbin/sysctl name=ip_forward dev= ino=-<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysctl_net_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=<NUM> a2=1b6 a3=1b6 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/proc/sys/net/ipv4/ip_forward inode=<NUM> dev=<NUM>:<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { getattr } for pid=<NUM> exe=/sbin/sysctl path=/proc/sys/net/ipv4/ip_forward dev= ino=-<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysctl_net_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=fef0c808 a2=68cffc a3=87171c0 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,"SELinux: initialized (dev , type usbdevfs), uses genfs_contexts",1
+kernel,"SELinux: initialized (dev , type usbfs), uses genfs_contexts",1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { getattr } for pid=<NUM> exe=/bin/bash path=/sys/devices/pci0000:<NUM>/<NUM>:<NUM>:1f.<NUM>/usb1/bNumConfigurations dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysfs_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=80d028c a1=fefff650 a2=68cffc a3=80d028c items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { read } for pid=<NUM> exe=/bin/cat name=bNumConfigurations dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysfs_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=fef6de9a a1=<NUM> a2=<NUM> a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { mounton } for pid=<NUM> exe=/bin/mount path=/proc/bus/usb dev= ino=-<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:proc_t tclass=dir,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=87a8a18 a1=87a8a28 a2=87a8a40 a3=c0ed0000 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/proc/bus/usb inode=<NUM> dev=<NUM>:<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { getattr } for pid=<NUM> exe=/usr/bin/readlink path=/sys dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysfs_t tclass=dir,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=87ee038 a1=fef69978 a2=68cffc a3=87ee038 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/sys inode=<NUM> dev=<NUM>:<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { read } for pid=<NUM> exe=/bin/grep name=devices dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:usbdevfs_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=fef14e91 a1=<NUM> a2=<NUM> a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/proc/bus/usb/devices inode=<NUM> dev=<NUM>:<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { getattr } for pid=<NUM> exe=/bin/grep path=/proc/bus/usb/devices dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:usbdevfs_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=805a2e4 a2=68cffc a3=88237c8 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { create } for pid=<NUM> exe=/sbin/minilogd name=log scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=sock_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=fef4d420 a2=fef4d440 a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { getattr } for pid=<NUM> exe=/sbin/minilogd path=/dev/log dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=sock_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=80490b4 a1=fef4d22c a2=68cffc a3=fef4d22c items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { write } for pid=<NUM> exe=/sbin/initlog name=log dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=sock_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=feee0794 a2=68cffc a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { unlink } for pid=<NUM> exe=/bin/rm name=control dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=chr_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=fefb8ea0 a1=<NUM> a2=fef31670 a3=fefb8ea0 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { read } for pid=<NUM> exe=/sbin/udev name=device-mapper dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysfs_t tclass=dir,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=9d3274a a1=<NUM> a2=<NUM> a3=9d325a0 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/sys/class/misc/device-mapper inode=<NUM> dev=<NUM>:<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { create } for pid=<NUM> exe=/sbin/nash name=control scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=chr_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=804fffa a1=<NUM> a2=a3f a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { check_context } for pid=<NUM> exe=/sbin/restorecon scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:security_t tclass=security,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=95a8180 a2=1c a3=95a9188 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { setattr } for pid=<NUM> exe=/sbin/udev name=device-mapper dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=chr_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=fef96e54 a1=<NUM> a2=<NUM> a3=a3f items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { relabelfrom } for pid=<NUM> exe=/sbin/restorecon name=control dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=chr_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { relabelto } for pid=<NUM> exe=/sbin/restorecon name=control dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:lvm_control_t tclass=chr_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { relabelto } for pid=<NUM> exe=/sbin/restorecon name=device-mapper dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:device_t tclass=chr_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=fefbbebe a1=dd6c6b a2=<NUM> a3=1b items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=fef38e8e a1=dd6c6b a2=95aff00 a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { getattr } for pid=<NUM> exe=/bin/bash path=/dev/mapper/control dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:lvm_control_t tclass=chr_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=80cfbcc a1=fefff8d0 a2=68cffc a3=80cfbcc items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { getattr } for pid=<NUM> exe=/sbin/lvm.static path=/dev/pts dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:devpts_t tclass=dir,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=82e3fa0 a1=fefab170 a2=<NUM> a3=fefab170 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { read } for pid=<NUM> exe=/sbin/lvm.static dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:devpts_t tclass=dir,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=82e3fa0 a1=<NUM> a2=<NUM> a3=82e3fa0 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { relabelfrom } for pid=<NUM> exe=/sbin/restorecon name=mtab dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { relabelto } for pid=<NUM> exe=/sbin/restorecon name=mtab dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:etc_runtime_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=feff3e98 a1=dd6c6b a2=a03fe28 a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/etc/mtab inode=<NUM> dev=<NUM>:<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { relabelto } for pid=<NUM> exe=/sbin/restorecon name=ld.so.cache dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ld_so_cache_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=fef5fe91 a1=dd6c6b a2=947d6d8 a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/etc/ld.so.cache inode=<NUM> dev=<NUM>:<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { getattr } for pid=<NUM> exe=/bin/bash path=/proc/sys/kernel/modprobe dev= ino=-<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysctl_modprobe_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=80cfbcc a1=fefffa10 a2=68cffc a3=80cfbcc items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { write } for pid=<NUM> exe=/sbin/sysctl name=modprobe dev= ino=-<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysctl_modprobe_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=8aac018 a1=<NUM> a2=1b6 a3=1b6 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { write } for pid=<NUM> exe=/sbin/sysctl name=hotplug dev= ino=-<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysctl_hotplug_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=89c4018 a1=<NUM> a2=1b6 a3=1b6 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { getattr } for pid=<NUM> exe=/sbin/sysctl path=/proc/sys/kernel/hotplug dev= ino=-<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysctl_hotplug_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=fee9c408 a2=68cffc a3=89c4050 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,"SELinux: initialized (dev hda1, type ext3), uses xattr",1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { unlink } for pid=<NUM> exe=/sbin/minilogd name=log dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=sock_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=80490b4 a1=fefaf380 a2=fefaf3a0 a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { syslog_read } for pid=<NUM> exe=/bin/dmesg scontext=system_u:system_r:kernel_t tcontext=system_u:system_r:kernel_t tclass=system,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { relabelto } for pid=<NUM> exe=/sbin/restorecon name=vcs1 dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:tty_device_t tclass=chr_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { unlink } for pid=<NUM> exe=/sbin/udev name=vcsa1 dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:tty_device_t tclass=chr_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=fef84ed8 a1=dd6c6b a2=8aa1490 a3=1f items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/udev/vcs1 inode=<NUM> dev=<NUM>:<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=fef124d0 a1=8f30a88 a2=fef124d0 a3=fef125e8 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/udev/vcsa1 inode=<NUM> dev=<NUM>:<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { read } for pid=<NUM> exe=/usr/sbin/kudzu name=<NUM>:<NUM>:0c.<NUM> dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysfs_t tclass=lnk_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=fef1ae20 a1=<NUM> a2=1b6 a3=1b6 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/sys/bus/pci/devices/<NUM>:<NUM>:0c.<NUM>/resource inode=<NUM> dev=<NUM>:<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { search } for pid=<NUM> exe=/usr/sbin/kudzu name=dev dev= ino=-<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysctl_dev_t tclass=dir,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { read } for pid=<NUM> exe=/usr/sbin/kudzu name=parport dev= ino=-<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysctl_dev_t tclass=dir,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=806aca9 a1=<NUM> a2=5fbe83 a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/proc/sys/dev/parport inode=<NUM> dev=<NUM>:<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { getattr } for pid=<NUM> exe=/usr/sbin/kudzu path=/proc/sys/dev/parport dev= ino=-<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysctl_dev_t tclass=dir,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=fef1b7cc a2=68cffc a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { read } for pid=<NUM> exe=/usr/sbin/kudzu name=autoprobe dev= ino=-<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysctl_dev_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=fef1b880 a1=<NUM> a2=<NUM> a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/proc/sys/dev/parport/parport0/autoprobe inode=<NUM> dev=<NUM>:<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { read } for pid=<NUM> exe=/usr/sbin/kudzu name=hotplug dev= ino=-<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysctl_hotplug_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=806a2d5 a1=<NUM> a2=<NUM> a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { relabelfrom } for pid=<NUM> exe=/sbin/restorecon name=fd0 dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=blk_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { relabelto } for pid=<NUM> exe=/sbin/restorecon name=fd0 dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:removable_device_t tclass=blk_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=feff6ee1 a1=dd6c6b a2=93b5568 a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/udev/fd0 inode=<NUM> dev=<NUM>:<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { read } for pid=<NUM> exe=/sbin/iptables name=modprobe dev= ino=-<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysctl_modprobe_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=<NUM> a2=fee75ba4 a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { create } for pid=<NUM> exe=/sbin/arping scontext=system_u:system_r:kernel_t tcontext=system_u:system_r:kernel_t tclass=packet_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=fef5c7e0 a2=<NUM> a3=a items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { ioctl } for pid=<NUM> exe=/sbin/arping path=socket:[<NUM>] dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:system_r:kernel_t tclass=packet_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=<NUM> a2=fef5d950 a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+privoxy,Jan <NUM> <NUM>:<NUM>:<NUM> Privoxy(-<NUM>) Info: loading configuration file '/etc/privoxy/config':,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { setattr } for pid=<NUM> exe=/sbin/syslogd name=log dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=sock_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=1fdf0f a1=1b6 a2=1ff130 a3=1b6 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { read } for pid=<NUM> exe=/sbin/klogd name=kmsg dev= ino=-<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:proc_kmsg_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { syslog_mod } for pid=<NUM> exe=/sbin/klogd scontext=system_u:system_r:kernel_t tcontext=system_u:system_r:kernel_t tclass=system,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=<NUM> a2=fefa8650 a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/proc/kmsg inode=<NUM> dev=<NUM>:<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/sbin/portmap scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:portmap_port_t tclass=udp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/sbin/portmap scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:portmap_port_t tclass=tcp_socket,1
+kernel,"SELinux: initialized (dev , type rpc_pipefs), uses genfs_contexts",1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { search } for pid=<NUM> exe=/usr/sbin/rpc.idmapd name=rpc dev= ino=-<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysctl_rpc_t tclass=dir,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=80504c6 a1=<NUM> a2=<NUM> a3=80504a0 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/proc/net/rpc/nfs4.idtoname/channel,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { search } for pid=<NUM> exe=/usr/sbin/rpc.idmapd dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:rpc_pipefs_t tclass=dir,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { read } for pid=<NUM> exe=/usr/sbin/rpc.idmapd name=nfs dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:rpc_pipefs_t tclass=dir,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=804f480 a1=<NUM> a2=804df6f a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/var/lib/nfs/rpc_pipefs/nfs inode=<NUM> dev=<NUM>:<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { getattr } for pid=<NUM> exe=/usr/sbin/rpc.idmapd path=/var/lib/nfs/rpc_pipefs/nfs dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:rpc_pipefs_t tclass=dir,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=fef87cec a2=68cffc a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { ioctl } for pid=<NUM> exe=/usr/sbin/hcid path=socket:[<NUM>] dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:system_r:kernel_t tclass=socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=800448d2 a2=88f8298 a3=88f8298 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { relabelfrom } for pid=<NUM> exe=/sbin/restorecon name=ptal-mlcd dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=dir,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { relabelto } for pid=<NUM> exe=/sbin/restorecon name=ptal-mlcd dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:var_run_t tclass=dir,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=fefbae57 a1=dd6c6b a2=8d4f3f0 a3=1c items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/var/run/ptal-mlcd inode=<NUM> dev=<NUM>:<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { relabelto } for pid=<NUM> exe=/sbin/restorecon name=ptal dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:etc_t tclass=dir,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=fefece60 a1=dd6c6b a2=92e47c8 a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/etc/ptal inode=<NUM> dev=<NUM>:<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { getattr } for pid=<NUM> exe=/usr/lib/cups/backend/parallel path=/proc/sys/dev/parport/parport0/autoprobe dev= ino=-<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysctl_dev_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=fef15090 a2=227ffc a3=a043008 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/sbin/cupsd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ipp_port_t tclass=tcp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=feeb3730 a2=84251c a3=91c7330 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/sbin/cupsd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ipp_port_t tclass=udp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=feeb3710 a2=84251c a3=842bb8 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/sbin/sshd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ssh_port_t tclass=tcp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=fef0c8d0 a2=<NUM> a3=9231ca0 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/sbin/sendmail.sendmail scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:smtp_port_t tclass=tcp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=feecd9b0 a2=25f104 a3=2668e0 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/sbin/xinetd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:amanda_port_t tclass=udp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/sbin/xinetd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:amandaidx_port_t tclass=tcp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/sbin/xinetd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:amidxtape_port_t tclass=tcp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/sbin/xinetd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:inetd_port_t tclass=tcp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/sbin/xinetd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:inetd_port_t tclass=udp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/sbin/xinetd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:biff_port_t tclass=udp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/sbin/xinetd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:printer_port_t tclass=tcp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/sbin/xinetd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:fingerd_port_t tclass=tcp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/sbin/xinetd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ftp_port_t tclass=tcp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/sbin/xinetd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:telnet_port_t tclass=tcp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/sbin/xinetd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:rlogin_port_t tclass=tcp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/sbin/xinetd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:rsh_port_t tclass=tcp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/sbin/xinetd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:biff_port_t tclass=tcp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/sbin/xinetd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:tftp_port_t tclass=udp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/bin/perl scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:spamd_port_t tclass=tcp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=feebb070 a2=<NUM> a3=83d49b8 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { compute_av } for pid=<NUM> exe=/bin/su scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:security_t tclass=security,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=8629f78 a2=3a a3=ffffffff items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+PAM-rootok,"pam_check_access failed, user does not have proper access: system_u:system_r:kernel_t",1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { compute_user } for pid=<NUM> exe=/bin/su scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:security_t tclass=security,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=862d3c0 a2=1e a3=862785d items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { write } for pid=<NUM> exe=/bin/su name=exec dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:system_r:kernel_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=dd7080 a1=<NUM> a2=fff a3=862785d items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/proc/self/attr/exec inode=<NUM> dev=<NUM>:<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { setexec } for pid=<NUM> exe=/bin/su scontext=system_u:system_r:kernel_t tcontext=system_u:system_r:kernel_t tclass=process,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=862a098 a2=<NUM> a3=862785d items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { transition } for pid=<NUM> exe=/bin/su path=/bin/bash dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=user_u:sysadm_r:sysadm_t tclass=process,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { siginh } for pid=<NUM> exe=/bin/bash scontext=system_u:system_r:kernel_t tcontext=user_u:sysadm_r:sysadm_t tclass=process,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { rlimitinh } for pid=<NUM> exe=/bin/bash scontext=system_u:system_r:kernel_t tcontext=user_u:sysadm_r:sysadm_t tclass=process,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { noatsecure } for pid=<NUM> exe=/bin/bash scontext=system_u:system_r:kernel_t tcontext=user_u:sysadm_r:sysadm_t tclass=process,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=fef9be88 a1=862c0b0 a2=862d358 a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/sbin/httpd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:http_port_t tclass=tcp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=fef1dec0 a2=1fa990 a3=891ed18 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { getattr } for pid=<NUM> exe=/usr/sbin/squid path=/initrd dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ramfs_t tclass=dir,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=fee8cefe a1=fee8ce90 a2=501ffc a3=fee8cf06 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { search } for pid=<NUM> exe=/sbin/killall5 name=<NUM> dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=user_u:sysadm_r:sysadm_t tclass=dir,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { read } for pid=<NUM> exe=/sbin/killall5 name=stat dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=user_u:sysadm_r:sysadm_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=feeb7580 a1=<NUM> a2=1b6 a3=1b6 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/proc/<NUM>/stat inode=<NUM> dev=<NUM>:<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { getattr } for pid=<NUM> exe=/sbin/killall5 path=/proc/<NUM>/stat dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=user_u:sysadm_r:sysadm_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=feeb7270 a2=68cffc a3=9d49368 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { read } for pid=<NUM> exe=/sbin/killall5 name=exe dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=user_u:sysadm_r:sysadm_t tclass=lnk_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=feeb7580 a1=feeb7354 a2=68cffc a3=feeb7354 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/proc/<NUM>/exe inode=<NUM> dev=<NUM>:<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/sbin/named scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:dns_port_t tclass=udp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=f704b4f0 a2=7ee138 a3=9142ac0 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/sbin/named scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:dns_port_t tclass=tcp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=f704b5c0 a2=7ee138 a3=916c4b8 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/sbin/snmpd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:snmp_port_t tclass=tcp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=feee9ba0 a2=1877bc a3=feee9bdc items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/sbin/snmpd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:snmp_port_t tclass=udp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=feee9aa0 a2=9682e4 a3=feee9b60 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { name_bind } for pid=<NUM> exe=/usr/sbin/ntpd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ntp_port_t tclass=udp_socket,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=fee78e80 a2=29e60c a3=fee78eac items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { remove_name } for pid=<NUM> exe=/usr/bin/rhgb name=rhgb-socket dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ramfs_t tclass=dir,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { unlink } for pid=<NUM> exe=/usr/bin/rhgb name=rhgb-socket dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ramfs_t tclass=sock_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=805cd2b a1=805cd26 a2=feee2bd0 a3=feee2bd5 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { unlink } for pid=<NUM> exe=/usr/bin/rhgb name=XFree86.<NUM>.log dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ramfs_t tclass=file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=805cd3f a1=805cd26 a2=feee2bd0 a3=feee2bd5 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { getattr } for pid=<NUM> exe=/sbin/restorecon name=vcsa5 dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:tty_device_t tclass=chr_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=fef68ed5 a1=dd6c52 a2=894de50 a3=ff items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): item=<NUM> name=/udev/vcsa5 inode=<NUM> dev=<NUM>:<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { unlink } for pid=<NUM> exe=/usr/bin/gdm-binary name=.gdmfifo dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=fifo_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=9e9f968 a1=<NUM> a2=f70ad980 a3=1b0 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { create } for pid=<NUM> exe=/usr/bin/gdm-binary name=.gdmfifo scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=fifo_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=9e9f968 a1=11b0 a2=<NUM> a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { setattr } for pid=<NUM> exe=/usr/bin/gdm-binary name=.gdmfifo dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=fifo_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=9e9f968 a1=1b0 a2=f70ad980 a3=1b0 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { compute_relabel } for pid=<NUM> exe=/usr/sbin/sshd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:security_t tclass=security,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=9245bf8 a2=<NUM> a3=38b272 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { relabelfrom } for pid=<NUM> exe=/usr/sbin/sshd name=<NUM> dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:devpts_t tclass=chr_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { relabelto } for pid=<NUM> exe=/usr/sbin/sshd name=<NUM> dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=root:object_r:devpts_t tclass=chr_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=923ca78 a1=dd7095 a2=<NUM> a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { ioctl } for pid=<NUM> exe=/usr/sbin/sshd path=/dev/pts/<NUM> dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=root:object_r:devpts_t tclass=chr_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=540e a2=<NUM> a3=fef0c768 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { read write } for pid=<NUM> exe=/usr/sbin/sshd name=<NUM> dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=root:object_r:devpts_t tclass=chr_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=808dd54 a1=<NUM> a2=<NUM> a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { transition } for pid=<NUM> exe=/usr/sbin/sshd path=/bin/bash dev=hda2 ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=root:sysadm_r:sysadm_t tclass=process,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { siginh } for pid=<NUM> exe=/bin/bash scontext=system_u:system_r:kernel_t tcontext=root:sysadm_r:sysadm_t tclass=process,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { rlimitinh } for pid=<NUM> exe=/bin/bash scontext=system_u:system_r:kernel_t tcontext=root:sysadm_r:sysadm_t tclass=process,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { noatsecure } for pid=<NUM> exe=/bin/bash scontext=system_u:system_r:kernel_t tcontext=root:sysadm_r:sysadm_t tclass=process,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=<NUM> a1=fef0c700 a2=9231e40 a3=<NUM> items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+kernel,audit(<NUM>.<NUM>:<NUM>): avc: denied { setattr } for pid=<NUM> exe=/usr/sbin/sshd name=<NUM> dev= ino=<NUM> scontext=system_u:system_r:kernel_t tcontext=root:object_r:devpts_t tclass=chr_file,1
+kernel,audit(<NUM>.<NUM>:<NUM>): syscall=<NUM> exit=<NUM> a0=808dd54 a1=<NUM> a2=<NUM> a3=808dd54 items=<NUM> pid=<NUM> loginuid=-<NUM> uid=<NUM> gid=<NUM> euid=<NUM> suid=<NUM> fsuid=<NUM> egid=<NUM> sgid=<NUM> fsgid=<NUM>,1
+sshd,"Warning! Could not relabel with system_u:object_r:devpts_t, not relabeling.",1
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=rrcs-<NUM>-<NUM>-<NUM>-<NUM>.central.biz.rr.com,1
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.dq1sn.easystreet.com,1
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=net2.program.com.tw,1
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=data.nhwsh.tp.edu.tw user=root,1
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=host227.infiniconsys.com user=root,1
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.static.tfn.net.tw user=root,1
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=adsl-<NUM>.<NUM>.<NUM>.info.com.ph user=root,1
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=c-<NUM>-<NUM>-<NUM>-<NUM>.hsd1.fl.comcast.net user=root,1
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.dhcp.ftwo.tx.charter.com user=root,1
+sshd(pam_unix),authentication failure; logname= uid=<NUM> euid=<NUM> tty=NODEVssh ruser= rhost=<IP> user=fax,1
+ftpd,connection from <IP> () at Thu Feb <NUM> <NUM>:<NUM>:<NUM> <NUM>,1
+ftpd,"ANONYMOUS FTP LOGIN FROM <IP>, <NUM>.<NUM>.<NUM>-<NUM>.rev.gaoland.net (anonymous)",1
