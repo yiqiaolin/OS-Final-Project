@@ -1,4 +1,4 @@
-## 2. 研究問題與具體分析規劃（Research Questions & Analysis Ideas）
+## 研究問題與具體分析規劃（Research Questions & Analysis Ideas）
 
 ### RQ1｜Linux 系統日誌中，哪些系統活動最頻繁？它們的活動模式如何隨時間改變？
 
