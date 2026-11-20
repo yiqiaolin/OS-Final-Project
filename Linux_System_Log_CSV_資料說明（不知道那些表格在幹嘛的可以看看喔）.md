@@ -313,7 +313,7 @@ ftpd,3453
 
 ### 5.4 Event 是如何產生的？
 
-目前可取得的分析程式會依照 `process` 與 `message` 的內容執行規則分類。例如：
+分析程式依照 `process` 與 `message` 的內容執行規則分類。例如：
 
 - 程序包含 `sshd`，且訊息包含 `failed password`，會分類為 `SSH Failed Password`。
 - 程序為 `kernel`，且訊息包含 `error`、`failed`、`warning`、`oops` 或 `panic` 等字詞，會分類為 `Kernel Error/Warning`。
@@ -616,7 +616,7 @@ MM-DD HH:00
 
 ### 10.4 程式如何挑選資料？
 
-目前可取得的程式碼設定：
+程式碼設定：
 
 ```python
 ANOMALY_THRESHOLD = 20
@@ -716,8 +716,6 @@ Sep 28 09:08:56 combo last message repeated 2 times
 
 - `unparsed_logs.csv` 的判斷依據是日誌是否符合目前的文字解析格式。
 - `invalid_utf8_logs.csv` 的欄位則明確記錄無效位元組相關資訊。
-
-**目前可取得的 `Linux System Log Analyzer` 程式碼沒有包含產生 `invalid_utf8_logs.csv` 的程式段落。** 因此以下欄位說明以實際 CSV 的欄位名稱與內容為準，不推測其完整產生流程。
 
 ### 12.2 實際欄位
 
