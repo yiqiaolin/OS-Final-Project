@@ -8,7 +8,7 @@
 
 ### 比較一：三種日期狀態之程序組成差異
 
-[../linux_analysis/m1_fig4_period_process_comparison.png]
+<img src="../linux_analysis/m1_fig4_period_process_comparison.png" width="100%">
 
 | 日期分組 | 天數 | 總筆數 | 日均筆數 | `kernel` | `sshd(pam_unix)` | `ftpd` | `su(pam_unix)` | `udev` | `Others` |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -22,7 +22,7 @@
 
 ### 比較二：24 小時各主要程序分布差異
 
-[../linux_analysis/m1_fig5_hourly_process_stacked.png]
+<img src="../linux_analysis/m1_fig5_hourly_process_stacked.png" width="100%">
 
 * **凌晨 `04:00`（2,401 筆，全天最高）**：全資料 **100.00% 的 `logrotate`（231/231）** 與 **93.22% 的 `su(pam_unix)`（880/944）** 皆集中發生在此單一小時內，呈現極度規律的週期性特徵。
 * **中午 `12:00`（2,059 筆，次高）**：由 `kernel`（1,063 筆，51.63%）與開關機相關系統服務拉高，主要來自 `01-26 12:00`（713 筆）與 `12-06 12:00`（388 筆）等單小時突發事件。
@@ -32,7 +32,7 @@
 1. **核心記憶體管理與 OOM Killer 保護機制（`11-20` ～ `12-06`）**
    當系統實體記憶體與交換空間（swap）耗盡且無法回收足夠頁面時，Linux 核心會觸發 **Out-of-Memory (OOM) Killer**，依記憶體占用與優先權分數選擇並強制終止特定使用者空間程序（本資料集中反覆終止 `httpd`），以釋放記憶體、避免整個作業系統核心崩潰（kernel panic）。這說明為何該期間會出現大量且連續的 `kernel` 日誌。
 2. **系統執行層級切換、重開機生命週期與裝置管理（`01-26 12:00`）**
-   檢視 `01-26 12:19:56` 至 `12:22:06` 的原始事件序列，可見 `shutdown: shutting down for system reboot` → `init: Switching to runlevel: 6`（Linux 定義 runlevel 6 為重新開機）→ `udev` 依序移除與重新建立裝置節點 → `syslogd` 與 `klogd` 停止並重啟。這驗證了**「高日誌頻率尖峰不等於系統當機或遭受攻擊」**——正常的系統重啟與服務初始化同樣會在短時間內產生大量核心與守護程序日誌。
+   檢視 `01-26 12:19:56` 至 `12:22:06` 的原始事件序列，可見 `shutdown: shutting down for system reboot` → `init: Switching to runlevel: 6`（Linux 定義 runlevel 6 為重新開機）→ `udev` 依序移除與重新建立裝置節點 → `syslogd` 與 `klogd` 停止並重啟。這驗證了「**高日誌頻率尖峰不等於系統當機或遭受攻擊**」——正常的系統重啟與服務初始化同樣會在短時間內產生大量核心與守護程序日誌。
 3. **系統例行排程與 PAM 權限切換機制（`04:00` 高峰）**
    Linux 透過每日排程（如 `cron.daily`）於離峰凌晨 4 點自動執行維護作業：包含以 `uid=0` 透過 `su(pam_unix)` 切換至 `cyrus`、`news` 等服務帳號開啟與關閉工作階段，並呼叫 `logrotate` 進行日誌輪替。此處的日誌量集中反映的是作業系統正常的背景排程行為，而非異常突發。
 
