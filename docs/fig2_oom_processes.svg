@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="380" style="background:#ffffff;font-family:Arial,sans-serif;">
+<text x="410" y="32" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Figure 2: Processes Terminated by Linux OOM Killer (Total Kills = 10404)</text>
+<line x1="140" y1="60" x2="140" y2="330" stroke="#374151" stroke-width="1.5"/>
+<line x1="140" y1="330" x2="770" y2="330" stroke="#374151" stroke-width="1.5"/>
+<text x="455" y="365" text-anchor="middle" font-size="13" fill="#374151">Terminated Process Count (events)</text>
+<text x="130" y="83.2" text-anchor="end" font-size="13" font-weight="bold" fill="#1f2937">httpd</text>
+<rect x="140" y="68.0" width="540.0" height="21.1" fill="#dc2626" rx="3"/>
+<text x="688.0" y="83.2" font-size="12" fill="#7f1d1d">8903 (85.6%)</text>
+<text x="130" y="115.7" text-anchor="end" font-size="13" font-weight="bold" fill="#1f2937">python</text>
+<rect x="140" y="100.5" width="69.9" height="21.1" fill="#dc2626" rx="3"/>
+<text x="217.9" y="115.7" font-size="12" fill="#7f1d1d">1153 (11.1%)</text>
+<text x="130" y="148.2" text-anchor="end" font-size="13" font-weight="bold" fill="#1f2937">sendmail</text>
+<rect x="140" y="133.0" width="14.0" height="21.1" fill="#dc2626" rx="3"/>
+<text x="162.0" y="148.2" font-size="12" fill="#7f1d1d">230 (2.2%)</text>
+<text x="130" y="180.7" text-anchor="end" font-size="13" font-weight="bold" fill="#1f2937">mrtg</text>
+<rect x="140" y="165.5" width="3.0" height="21.1" fill="#dc2626" rx="3"/>
+<text x="151.0" y="180.7" font-size="12" fill="#7f1d1d">50 (0.5%)</text>
+<text x="130" y="213.2" text-anchor="end" font-size="13" font-weight="bold" fill="#1f2937">mysqld</text>
+<rect x="140" y="198.0" width="1.5" height="21.1" fill="#dc2626" rx="3"/>
+<text x="149.5" y="213.2" font-size="12" fill="#7f1d1d">25 (0.2%)</text>
+<text x="130" y="245.7" text-anchor="end" font-size="13" font-weight="bold" fill="#1f2937">updatedb</text>
+<rect x="140" y="230.5" width="0.7" height="21.1" fill="#dc2626" rx="3"/>
+<text x="148.7" y="245.7" font-size="12" fill="#7f1d1d">12 (0.1%)</text>
+<text x="130" y="278.2" text-anchor="end" font-size="13" font-weight="bold" fill="#1f2937">sshd</text>
+<rect x="140" y="263.0" width="0.7" height="21.1" fill="#dc2626" rx="3"/>
+<text x="148.7" y="278.2" font-size="12" fill="#7f1d1d">11 (0.1%)</text>
+<text x="130" y="310.7" text-anchor="end" font-size="13" font-weight="bold" fill="#1f2937">ld-linux.so.2</text>
+<rect x="140" y="295.5" width="0.4" height="21.1" fill="#dc2626" rx="3"/>
+<text x="148.4" y="310.7" font-size="12" fill="#7f1d1d">7 (0.1%)</text>
+</svg>
